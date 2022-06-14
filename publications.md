@@ -11,12 +11,11 @@ layout: cv
 
 `Submitted`
 
-A few others as well ;)
-
-
-52\. **Leroy B**, Kramer AV, Vaissière AC, Courchamp F, Diagne C. Analysing global economic costs of invasive alien species with the invacost R package. *Preprint available* [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432) 
+A few ones ;)
 
 `2022`
+
+52\. **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C (2022).Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* **Preprint available here**: [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432) 
 
 51\. Ahmed DA, Hudgins EJ, Cuthbert RN, Kourantidou M, Diagne C, Haubrock PJ, Leung B, Liu C, **Leroy B**, Petrovskii S, Beidas A, Courchamp F (2022). Managing biological invasions: the cost of inaction. *Biological Invasions* [10.21203/rs.3.rs-300416/v1](https://doi.org/10.21203/rs.3.rs-300416/v1)
 

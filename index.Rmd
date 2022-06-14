@@ -78,6 +78,9 @@ gs <- get_profile(id)
 
 *Selected publications:*
 
+`2022`
+**Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C (2022).Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* **Preprint available here**: [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432) 
+
 `2021`
 
 Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. High and rising economic costs of biological invasions worldwide IN PRESS *Nature*

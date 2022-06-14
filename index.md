@@ -70,9 +70,15 @@ Scholar](https://scholar.google.fr/citations?user=7HzlVT4AAAAJ).*
 
 ### Journal articles
 
-52 published peer-reviewed articles. h-index: 25; i10-index: 41
+52 published peer-reviewed articles. h-index: 24; i10-index: 42
 
 *Selected publications:*
+
+`2022` **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F,
+Diagne C (2022).Analysing global economic costs of invasive alien
+species with the invacost R package. *Methods in Ecology & Evolution*
+**Preprint available here**:
+[10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432)
 
 `2021`
 
@@ -266,8 +272,9 @@ Sorbonne Universités*, Paris, France.
 `2014-2018` *Master’s degree, Muséum National d’Histoire Naturelle,
 Sorbonne Universités* - - **Modelling and statistics**
 
-`2010-2013` *Bachelor’s degree, University of Rennes 1*, Rennes, France.
-- - **Aquatic Ecology** - - **Animal Biodiversity** - - **Statistics**
+`2010-2013` *Bachelor’s degree, University of Rennes 1*, Rennes,
+France. - - **Aquatic Ecology** - - **Animal Biodiversity** - -
+**Statistics**
 
 ### Online courses
 
@@ -456,4 +463,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Mar 2022<br/><br/>
+<br/>Last updated: Jun 2022<br/><br/>
