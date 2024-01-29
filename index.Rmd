@@ -80,7 +80,7 @@ gs <- get_profile(id)
 
 *Selected publications:*
 
-**Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. In Press. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances*
+**Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. In Press. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502)
 
 **Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 

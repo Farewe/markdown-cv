@@ -71,7 +71,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-60 published peer-reviewed articles. h-index: 34; i10-index: 50
+60 published peer-reviewed articles. h-index: 36; i10-index: 50
 
 *Selected publications:*
 
@@ -79,6 +79,7 @@ Management, University of Rennes 1*, Rennes, France.
 Oberdorff T, Robuchon M, Tedesco PA. In Press. Major shifts in
 biogeographic regions of freshwater fishes as evidence of the
 Anthropocene epoch. *Science Advances*
+[10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502)
 
 **Leroy B**. 2023. Choosing presence-only species distribution models.
 *Journal of Biogeography* 50:247-250
@@ -476,4 +477,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Oct 2023<br/><br/>
+<br/>Last updated: Jan 2024<br/><br/>
