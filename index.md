@@ -71,7 +71,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-60 published peer-reviewed articles. h-index: 37; i10-index: 51
+67 published peer-reviewed articles. h-index: 37; i10-index: 51
 
 *Selected publications:*
 
@@ -79,7 +79,8 @@ Management, University of Rennes 1*, Rennes, France.
 Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic
 regions of freshwater fishes as evidence of the Anthropocene epoch.
 *Science Advances*
-[10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502)[HAL](https://hal.science/BOREA/hal-04311267v1)
+[10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502) —
+[HAL](https://hal.science/BOREA/hal-04311267v1)
 
 **Leroy B**. 2023. Choosing presence-only species distribution models.
 *Journal of Biogeography* 50:247-250

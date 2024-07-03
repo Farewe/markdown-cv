@@ -11,9 +11,30 @@ layout: cv
 
 `Submitted`
 
+Denelle P, **Leroy B**, Lenormand M. Bioregionalization analyses with the bioregion R-package [arXiv preprint](https://arxiv.org/abs/2404.15300)
+
+
+`2024`
+
+67\. Manfrini E, Courchamp F, **Leroy B**. In Press. Mitigating the role of aquaculture in crustacean invasions. *Reviews in Aquaculture* [doi]() --- [HAL]()
+
+66\. Pili A, **Leroy B**, et al. In Press.  Forecasting potential invaders to prevent future biological invasions worldwide. **Global Change Biology** [doi]() --- [HAL]()
+
+65\. Roiz D, Pontifes PA, Jourdain F, Diagne C, **Leroy B**, Vaissière AC, Tolsá-García MJ, Salles JM, Simard F, Courchamp F. (2024). The rising global economic costs of invasive Aedes mosquitoes and Aedes-borne diseases. *Science of The Total Environment*, 933, 173054. [10.1016/j.scitotenv.2024.173054](https://doi.org/10.1016/j.scitotenv.2024.173054) ---  [HAL](https://hal.science/hal-04573122v2)
+
+64\. Bernery C, Bellard C, Courchamp F, Brosse S, **Leroy B**. (2024). A global analysis of the introduction pathways and characteristics associated with non-native fish species introduction, establishment, and impacts. Ecological Processes, 13(1), 22. [10.1186/s13717-024-00495-8](https://doi.org/10.1186/s13717-024-00495-8) --- 
+[HAL](https://hal.science/hal-04513049v1)
+
+63\. Hulme PE, Ahmed DA, Haubrock PJ, Kaiser BA, Kourantidou M, **Leroy B**, McDermott SM. (2024). Widespread imprecision in estimates of the economic costs of invasive alien species worldwide. Science of The Total Environment, 909, 167997. [10.1016/j.scitotenv.2023.167997](https://doi.org/10.1016/j.scitotenv.2023.167997) --- [HAL](https://hal.science/hal-04633043)
+
+62\. Macêdo RL, Haubrock PJ, Klippel G, Fernandez RD, Leroy B, Angulo E, Carneiro L, Musseau CL, Rocha O, Cuthbert RN. (2024). The economic costs of invasive aquatic plants: A global perspective on ecology and management gaps. Science of The Total Environment, 908, 168217. [10.1016/j.scitotenv.2023.168217](https://doi.org/10.1016/j.scitotenv.2023.168217) --- [HAL](https://hal.science/hal-04347118v1)
+
+61\. Hanafi-Portier M, Samadi S, Corbari L, Boulard M, Miramontes E, Penven P, Leroy B, Napoléon T, Jorry SJ, & Olu K. (2024). Multiscale spatial patterns and environmental drivers of seamount and island slope megafaunal assemblages along the Mozambique channel. Deep Sea Research Part I: Oceanographic Research Papers, 203, 104198. [10.1016/j.dsr.2023.104198](https://doi.org/10.1016/j.dsr.2023.104198) --- [HAL](https://hal.science/hal-04337064v1)
+
+
 `2023`
 
-60\. **Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502)[HAL](https://hal.science/BOREA/hal-04311267v1)
+60\. **Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502) --- [HAL](https://hal.science/BOREA/hal-04311267v1)
 
 59\.  Ahmed DA, Haubrock PJ, Cuthbert RN, Bang A, Soto I, Balzani P, Tarkan AS, Macêdo RL, Carneiro L, Bodey TW, Oficialdegui FJ, Courtois P, Kourantidou M, Angulo E, Heringer G, Renault D, Turbelin AJ, Hudgins EJ, Liu C, Gojery SA, Arbieu U, Diagne C, **Leroy B**, Briski E, Bradshaw CJA, Courchamp F. 2023. Recent advances in availability and synthesis of the economic costs of biological invasions. **BioScience** [10.1093/biosci/biad060](https://doi.org/10.1093/biosci/biad060) --- [HAL](https://hal.science/hal-04148456)
 
@@ -178,6 +199,12 @@ layout: cv
 1\. **Leroy B.** 2012-2023. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-8.  https://cran.r-project.org/package=Rarity
 
 ### Expertise reports
+
+`2024`
+
+19\. **Leroy B**. (2024). Cartographie prédictive des habitats des groupes d’espèces ciblées
+par les Plans Nationaux d’Actions en Corse. Rapport pour la DREAL de Corse.
+Zenodo. 110 pp. https://doi.org/10.5281/zenodo.11067678
 
 `2023`
 
