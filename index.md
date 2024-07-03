@@ -76,9 +76,10 @@ Management, University of Rennes 1*, Rennes, France.
 *Selected publications:*
 
 **Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F,
-Oberdorff T, Robuchon M, Tedesco PA. In Press. Major shifts in
-biogeographic regions of freshwater fishes as evidence of the
-Anthropocene epoch. *Science Advances*
+Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic
+regions of freshwater fishes as evidence of the Anthropocene epoch.
+*Science Advances*
+[10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502)[HAL](https://hal.science/BOREA/hal-04311267v1)
 
 **Leroy B**. 2023. Choosing presence-only species distribution models.
 *Journal of Biogeography* 50:247-250
