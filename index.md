@@ -71,7 +71,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-60 published peer-reviewed articles. h-index: 34; i10-index: 50
+60 published peer-reviewed articles. h-index: 37; i10-index: 51
 
 *Selected publications:*
 
@@ -139,7 +139,7 @@ version : 1.3-6. <https://cran.r-project.org/package=Rarity>
 
 ## Expertise
 
-**18** expertise reports published
+**19** expertise reports published
 
 `2020-2023` **Contributing Author**, *Intergovernmental Platform on
 Biodiversity & Ecosystem Services*, Invasive Alien Species Assessment
@@ -148,6 +148,13 @@ Biodiversity & Ecosystem Services*, Invasive Alien Species Assessment
 & Ecosystem Services*, Europe and Central Asia Assessment
 
 ### Selected expertise reports
+
+`2024`
+
+**Leroy B**. (2024). Cartographie prédictive des habitats des groupes
+d’espèces ciblées par les Plans Nationaux d’Actions en Corse. Rapport
+pour la DREAL de Corse. Zenodo. 110
+pp. <https://doi.org/10.5281/zenodo.11067678>
 
 `2023`
 
@@ -254,6 +261,10 @@ Sorbonne Universités*, Paris, France.
 
 - \- **Species distribution models and climate change**, doctoral
   training school, 5 days.
+
+`2015-2023` *Doctoral school, Muséum National d’Histoire Naturelle,
+Sorbonne Universités*, Paris, France.
+
 - \- **Biogeography**, with Maud Mouchet, doctoral training school, 5
   days.
 
@@ -283,6 +294,11 @@ tutorial](https://github.com/Farewe/biogeonetworks)
 ## Supervision
 
 ### Postdoctoral researchers
+
+`2023-2024` **Bruno Serranito**, *BOREA, Muséum National d’Histoire
+Naturelle*, Dinard, France.<br/> Co-supervised with Eric Feunteun<br />
+Developing bioindicators for rocky foreshores: citizen sciences, a
+mechanism for interaction between science and society.
 
 `2020-2023` **Berta Ramiro-Sánchez**, *BOREA, Muséum National d’Histoire
 Naturelle*, Paris, France. <br /> Mapping the biogeography of Vulnerable
@@ -330,9 +346,12 @@ Protected Areas.
 
 ### Master students
 
+`2024` **Quentin Lamboley**, *Master 2, University of Rennes 1*, Rennes,
+France.<br /> Co-supervised with Eléna Manfrini
+
 `2022` **Cam Ly Rintz**, *Master 2, Université Paris-Saclay,
 AgroParisTech*, Paris, France.<br /> Co-supervised with Berta Ramiro
-Sanchez
+Sánchez
 
 `2021`
 
@@ -390,6 +409,10 @@ France.<br/> Co-supervised with Céline Bellard
 
 ### PhD committees
 
+`2024-2027` **Marieke Schultz**, *UMR MARBEC MARine Biodiversity,
+Exploitation and Conservation, Universié de Montpellier*, Montpellier,
+France
+
 `2023-2026` **Rafaela Molina-Vargas**, *iEES-Paris, IRD, Sorbonne
 Université*, Paris, France
 
@@ -442,15 +465,27 @@ Conservation*, *PeerJ*, *PLoS one*, *Science China Life Sciences*,
 
 **Research project proposals**: Agence Nationale pour la Recherche.
 
-`2019-present` **Associate Editor**. *Diversity & Distributions*
+`2024-present` **Senior Editor**. *Diversity & Distributions*
+
+`2019-2024` **Associate Editor**. *Diversity & Distributions*
 
 ## Academic service
+
+`2025-onwards` **Co-leader**, *group AQUATREND, **Quantitative analysis
+of trends in biodiversity in response to global change**, Lab. Biology
+of Aquatic Organisms & Ecosystems, Muséum national d’Histoire
+Naturelle*, Paris, France.
 
 `2017-2019` **Leader**, *group Biodiversity & Macroecology, Lab. Biology
 of Aquatic Organisms & Ecosystems, Muséum national d’Histoire
 Naturelle*, Paris, France.
 
 ## Outreach
+
+`2023` **Press** Biological invasions of freshwater fishes and the
+Anthropocene. AFP, The Conversation, L’info durable, Presse Agence,
+France Inter, France Culture (x2), Geo, H20, The Cleveland American,
+East Africa News Post, Reporterre, Le Figaro, Natura Science.
 
 `2021` **Press** Multiple interviews on the themes of biological
 invasions, climate change and modelling (Science News, Polytechnique
@@ -476,4 +511,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Oct 2023<br/><br/>
+<br/>Last updated: Jul 2024<br/><br/>

@@ -13,7 +13,7 @@ layout: cv
 
 `2023`
 
-60\. **Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. In Press. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502)
+60\. **Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502)
 
 59\.  Ahmed DA, Haubrock PJ, Cuthbert RN, Bang A, Soto I, Balzani P, Tarkan AS, Macêdo RL, Carneiro L, Bodey TW, Oficialdegui FJ, Courtois P, Kourantidou M, Angulo E, Heringer G, Renault D, Turbelin AJ, Hudgins EJ, Liu C, Gojery SA, Arbieu U, Diagne C, **Leroy B**, Briski E, Bradshaw CJA, Courchamp F. 2023. Recent advances in availability and synthesis of the economic costs of biological invasions. **BioScience** [10.1093/biosci/biad060](https://doi.org/10.1093/biosci/biad060) --- [HAL](https://hal.science/hal-04148456)
 
