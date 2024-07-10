@@ -57,205 +57,84 @@ gs <- get_profile(id)
 *[Full Publication list  available by clicking here](https://farewe.github.io/markdown-cv/publications.html).*
 
 ### Journal articles
-56 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
+67 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
 
 *Selected publications:*
 
-**Leroy B**. **Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
+**Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502) --- [HAL](https://hal.science/BOREA/hal-04311267v1)
+
+**Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 
 Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I, Teletchea F, **Leroy B**.  2022. Freshwater fish invasions: A comprehensive review. *Annual Review of Ecology, Evolution and Systematics*  [10.1146/annurev-ecolsys-032522-015551](https://doi.org/10.1146/annurev-ecolsys-032522-015551) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03781186)
 
 **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C. 2022. Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* 13:1930-1937 [10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03427555)
 
-Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. 2021. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* 22:212-225 [10.1111/faf.12515](https://doi.org/10.1111/faf.12515) ---  [HAL Link](https://HAL Link.archives-ouvertes.fr/HAL Link-03326581)
-
-Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. 2021. High and rising economic costs of biological invasions worldwide *Nature* 592, pages 571–576 [10.1038/s41586-021-03405-6](https://doi.org/10.1038/s41586-021-03405-6)
-
-**Leroy B**, Dias MS, Giraud E, Hugueny B, Jézéquel C,  Leprieur F, Oberdorff T, Tedesco PA. 2019. Global biogeographical regions of freshwater fish species. *Journal of Biogeography*, 46:2407-2419 [10.1111/jbi.13674](https://doi.org/10.1111/jbi.13674)
-
-**Leroy B**, Gallon R, Feunteun E, Robuchon M & Ysnel F. 2017. Cross-taxon congruence in the rarity of subtidal rocky marine assemblages : no taxonomic shortcut for conservation monitoring. *Ecological Indicators* 77:239-249 [10.1016/j.ecolind.2017.02.012](https://doi.org/10.1016/j.ecolind.2017.02.012) ---  [HAL Link](https://HAL Link.archives-ouvertes.fr/HAL Link-01493202)
-
-**Leroy B**, Meynard CN, Bellard C, Courchamp F. 2016. virtualspecies: an R package to generate virtual species distributions. *Ecography* 39:599-607 [10.1111/ecog.01388](https://doi.org/10.1111/ecog.01388)
-
-**Leroy B**, Canard A & Ysnel F. 2013. Integrating multiple scales in rarity assessments of invertebrate taxa. Diversity and Distributions 19:794-803 [10.1111/ddi.12040](https://doi.org/10.1111/ddi.12040)
-
 ### Software
-
-Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of Bioregionalisation Methods. Current version: 1.0  https://cran.r-project.org/package=bioregion Open-source code repository available here: https://github.com/bioRgeo/bioregion
-
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2023. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
-
-**Leroy B.** 2019-2023. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
-
-**Leroy B.** 2014-2023. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
-
-**Leroy B.** 2012-2023. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-6.  https://cran.r-project.org/package=Rarity
-
+5 software published with 2 peer-reviewed articles, totaling 391 citations
 
 ## Expertise
-*I work at the science-policy interface, internationally (e.g., **Lead Author** for the European and Central Asia report by the IPBES) or specifically in France (e.g., conservation planning recommendations for the Terres Australes & Antarctiques Françaises).*
+*I work at the science-policy interface, internationally (e.g., **Lead Author** for the European and Central Asia report by the IPBES) or specifically in France (e.g., Terres Australes & Antarctiques Françaises, DREAL Corse).*
 
-12 Expertise reports in total. Selected reports:
-Ramiro-Sánchez B, **Leroy B**. 2022. *Progress report - Significant Adverse Impacts* Southern Indian Ocean Fisheries Agreement consultancy report. 38 pp.
+19 Expertise reports published in total. Last report:
 
-Ramiro-Sánchez B, Martin A, **Leroy B**. 2022. *Final report on Consultancy on VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 33 pp.
+**Leroy B**. (2024). Cartographie prédictive des habitats des groupes d’espèces ciblées
+par les Plans Nationaux d’Actions en Corse. Rapport pour la DREAL de Corse.
+Zenodo. 110 pp. https://doi.org/10.5281/zenodo.11067678 https://borisleroy.com/sdms-pna-corse
 
-Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E & Courchamp F. 2021. Les coûts économiques des invasions biologiques en France. Synthèse à l’intention des décideurs. Rapport MNHN/Université Paris Saclay/ IUCN, Paris, France.
-
-Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat J.,  Dauvin J.-C., Grangeré K., HAL Linkouani G., Haraldsson M., Hattab T., Le Loc’h F., **Leroy B.**,  Lejart M., Niquil N., Nogues Q., Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche écosystémique des aires d’implantation d’énergies marines renouvelables. Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
-
-**IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages. **Role: Lead Author (chapter 4), Contributing author (Chapters 1, 2, 3)**
 
 ## Research funding
 
-`2021-2023` **1.5-year research project**, *Southern Indian Ocean
-Fisheries Agreement*, Indian Ocean, 60 000€. PI. <br/> Bioregionalisation and 
-Management of Vulnerable Marine Ecosystems in the Indian
-Ocean.
+8 projects funded as PI or co-PI totaling around 1M€. Current projects:
 
-`2021` **Expertise project**, *Planification de l'extension de la réserve Naturelle marine de Saint Paul et Amsterdam*, Terres Australes et Antarctiques Françaises, ~20k€.
+`2023-2026` **3-year research project**, PPR Océan & Climat, Developing bioindicators for rocky foreshores: citizen sciences, a mechanism for interaction between science and society. Co-PI with Eric Feunteun & Florian Charvolin. 110 000€
 
-`2020-2022`
-**2-year research project**, *Southern Indian Ocean Fisheries Agreement*, Indian Ocean, 96 000€. PI.<br/> 
-Mapping the biogeography of Vulnerable Marine Ecosystems in the Indian Ocean.
-
-`2017–2019`
-**2-year research project Labex**, *Muséum National d'Histoire Naturelle*, France, 100 000€. <br/>
-Co-PI with Sarah Samadi & Maud Mouchet.<br/>
-Valuing natural history collections and naturalist expeditions for the conservation and management of deep sea habitats: the Tropical Deep Sea Benthos program.
-
-`2017–2019`
-**2-year research project Labex**, *Muséum National d'Histoire Naturelle*, France, 100 000€.<br/> Co-PI with Sandrine Pavoine.<br/>
-New indicators for biodiversity conservation based on phylogenetic originality and extinction risks : HEDGE and LEDGE species.
-
-`2016-2019`
-**3-year research project**, *ANR/France Energies Marines*, France. <br />
-PI: Nathalie Niquil.<br/>
-TROPHIK project: Ecosystemic approach of Renewable Marine Energies: Modelling the role of offshore windfarms in modifying coastal trophic network functionning and cumulated impacts of other drivers of change.
-
+`2023-2025` **2-year research project**, *Agence Nationale pour la Recherche*,
+ESPOIRS - Etude de la réponse des estrans aux changements globaux par les Sciences
+Participatives : biOindication à l’InteRface sciences Société. 250 000€. 
 
 ## Teaching
 
-### Main courses
-
-`2018-present`
-*Master's degree, Muséum National d'Histoire Naturelle, Sorbonne Universités*, Paris, France.
+Teaching 70-100h per year for masters and doctoral schools at the Muséum and
+Ecole Normale Supérieure. Responsibility of two courses:
 
 - \- **Biogeography and Macroecology**, with Maud Mouchet, master's degree course, 10 days.
 
-`2015-present`
-*Doctoral school, Muséum National d'Histoire Naturelle, Sorbonne Universités*, Paris, France.
-
 - \- **Species distribution models and climate change**, doctoral training school, 5 days.
-- \- **Biogeography**, with Maud Mouchet, doctoral training school, 5 days.
-
-
-### Short courses
-Occasional short courses in the Muséum or elsewhere (e.g., Ecole Normale Supérieure)
-
-### Online courses
-
-`2020`
-**The INVACOST R Package: Global Costs of Biological Invasions**
-[Online tutorial link](https://github.com/Farewe/invacost)
-
-`2019`
-**Biogeographical networks in R**, [Online tutorial link](https://github.com/Farewe/biogeonetworks) 
-
-`2014, 2019`
-**The virtualspecies R package: a complete tutorial**, [Online tutorial link](http://borisleroy.com/virtualspecies_tutorial/)
-
 
 ## Supervision & evaluation
 
-### Postdoctoral researchers
+6 postdoctoral researchers, 3 PhD students, 2 engineers and 15 master students supervised
 
-`2020-2022`
-**Berta Ramiro-Sánchez**, *BOREA, Muséum National d'Histoire Naturelle*, Paris, France. <br />
-Mapping the biogeography of Vulnerable Marine Ecosystems in the Indian Ocean.
+Member of 12 PhD committees
 
-`2018-2019`
-**Lissette Victorero**, *BOREA, Muséum National d'Histoire Naturelle*, Paris, France. <br />
-Co-supervised with Sarah Samadi & Maud Mouchet. <br />
-Tropical Deep Sea Benthos project.
-
-`2017-2019`
-**Marine Robuchon**, *BOREA, Muséum National d'Histoire Naturelle*, Paris, France. <br />
-Co-supervised with Sandrine Pavoine. <br />
-Phylogenetic originality project.
-
-`2017-2018`
-**Juliette Delavenne**, *BOREA, Muséum National d'Histoire Naturelle*, Paris, France. <br /> Co-supervised with Sarah Samadi & Maud Mouchet. <br />
-Tropical Deep Sea Benthos project.
-
-`2017`
-**Tarek Hattab**, *Oceanography & Geoscience lab, Université du Littoral Côté d'Opale*, Wimereux, France.
-Co-supervised with Grégory Beaugrand. <br />
-Trophik project.
-
-
-### Doctoral students
-
-`2022-2025`
-**Eléna Manfrini**, *Ecology, Systematics, Evolution, Université Paris-Saclay*, Orsay, France.<br/>
-Co-supervised with Franck Courchamp<br />
-Risks of biological invasions from farmed arthropods.
-
-`2019-2022`
-**Camille Bernery**, *Ecology, Systematics, Evolution, Université Paris-Saclay*, Orsay, France.<br/>
-Co-supervised with Franck Courchamp & Céline Bellard <br />
-Biological invasions of freshwater fishes.
-
-### Engineers
-
-`2021`
-**Andéol Bourgouin**, *Terres Australes et Antarctiques Françaises*, Paris, France.<br />
-Bioregionalisation of the Saint-Paul Amsterdam EEZ in the Indian Ocean for the delineation of Marine Protected Areas.
-
-
-### Master students
-
-`2014-2022` 14 master students supervised in total (12 Master 2, 2 Master 1)
-
-### Undergraduate interns
-
-`2014-2022` 2 undergraduate internes supervised in total (1 Licence 3, 1 Licence 2)
-
-### Committees and evaluations
-
-`2017-2022` Examiner of 3 PhDs (2 in France, 1 in Australia)
-
-`2014-2022` Member of 10 PhD committees (Comités de Suivi Individuel de thèse)
-
-`2015-present`
-**Evaluation committee**, *Master programs, Muséum National d'Histoire Naturelle, Sorbonne Universités*, Paris, France
-
+Examiner for 3 PhD defenses
 
 ## Professional service
 
+Referee for over 25 journals
 
-`2010-present`
-**Referee**. *Journals*: *African Journal of Ecology*, *Arachnologische Mitteilungen*, *Biological Invasions*, *Diversity & Distributions*, *Ecography*, *Ecological modelling*, *Ecology & Evolution*, *Ecology Letters*, *Environmental Modelling & Software*, *Freshwater Science*, *Frontiers in Ecology and the Environment*, *Global Ecology & Biogeography*, *Global Ecology & Conservation*, *International Journal of Geographic Information Science*, *Journal of Applied Ecology*, *Journal of Biogeography*, *Journal of Insect Conservation*, *PeerJ*, *PLoS one*, *Science China Life Sciences*, *Systematics & Biodiversity*.
+`2024-present`
+**Senior Editor**. *Diversity & Distributions*
 
-**Research project proposals**: Agence Nationale pour la Recherche.
-
-`2019-present`
+`2019-2024`
 **Associate Editor**. *Diversity & Distributions*
 
 ## Academic service
 
+`2025-onwards`
+**Co-leader**, *group AQUATREND, __Quantitative analysis of trends in biodiversity in response to global change__, Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris, France.
+
+
 `2017-2019`
 **Leader**, *group Biodiversity & Macroecology, Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris, France.
 
-## Outreach (examples)
+## Recent outreach events
+
+`2023` **Press** Biological invasions of freshwater fishes and the Anthropocene.
+AFP, The Conversation, L'info durable, Presse Agence, France Inter, France Culture (x2), Geo, H20, The Cleveland American, East Africa News Post, Reporterre, Le Figaro, Natura Science. 
 
 `2021`
-**Press** Multiple interviews on the themes of biological invasions, climate change and modelling (Science News, Polytechnique Insights, France TV info, Radio la 1ère//Planète Outre-Mer, Science & Vie)
-
-`2017`
-**Guest lectures**, *4th IMPRESS training workshop, Marie Sklodowska Curie Action Innovative Training network*, Chanteuges, France.
-Two lectures given: **Aquatic biogeography and applications to conservation.** and **The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES).**
-
+**Press** Biological invasions, climate change and modelling (Science News, Polytechnique Insights, France TV info, Radio la 1ère//Planète Outre-Mer, Science & Vie)
 
 
 ```{r echo=FALSE, results="hide", message="hide", warning=FALSE} 
