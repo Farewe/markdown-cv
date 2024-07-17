@@ -19,7 +19,7 @@ Denelle P, **Leroy B**, Lenormand M. Bioregionalization analyses with the bioreg
 
 67\. Manfrini E, Courchamp F, **Leroy B**. In Press. Mitigating the role of aquaculture in crustacean invasions. *Reviews in Aquaculture* [doi]() --- [HAL]()
 
-66\. Pili A, **Leroy B**, Measey JG, Farquhar JE, Toomes A, Cassey P, Chekunov S, Grenié M, van Winkel D, Maria L, Diesmos MLL, Diesmos AC, Zurell D, Courchamp F, Chapple DG. 2024.  Forecasting potential invaders to prevent future biological invasions worldwide. **Global Change Biology** [10.1111/gcb.17399](https://doi.org/10.1111/gcb.17399) --- [HAL](https://hal.science/hal-04651795v1)
+66\. Pili A, **Leroy B**, Measey JG, Farquhar JE, Toomes A, Cassey P, Chekunov S, Grenié M, van Winkel D, Maria L, Diesmos MLL, Diesmos AC, Zurell D, Courchamp F, Chapple DG. 2024.  Forecasting potential invaders to prevent future biological invasions worldwide. **Global Change Biology** 30:e17399. [10.1111/gcb.17399](https://doi.org/10.1111/gcb.17399) --- [HAL](https://hal.science/hal-04651795v1)
 
 65\. Roiz D, Pontifes PA, Jourdain F, Diagne C, **Leroy B**, Vaissière AC, Tolsá-García MJ, Salles JM, Simard F, Courchamp F. (2024). The rising global economic costs of invasive Aedes mosquitoes and Aedes-borne diseases. *Science of The Total Environment*, 933, 173054. [10.1016/j.scitotenv.2024.173054](https://doi.org/10.1016/j.scitotenv.2024.173054) ---  [HAL](https://hal.science/hal-04573122v2)
 
