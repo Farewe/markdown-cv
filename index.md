@@ -71,7 +71,9 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-67 published peer-reviewed articles. h-index: 37; i10-index: 51
+67 published peer-reviewed articles. h-index: 37; i10-index: 51.
+
+Number of papers as 1st author: 13, 2nd author: 12, last author: 11.
 
 *Selected publications:*
 
@@ -405,6 +407,8 @@ France.<br/> Co-supervised with Céline Bellard
 
 ### Undergraduate interns
 
+`2023`
+
 `2019` **Rémy Le Goff**, *Licence 2, Sorbonne University*, Paris, France
 
 `2017` **Samuel Lu**, *Licence 3, Sorbonne University*, Paris, France
@@ -481,6 +485,8 @@ Naturelle*, Paris, France.
 `2017-2019` **Leader**, *group Biodiversity & Macroecology, Lab. Biology
 of Aquatic Organisms & Ecosystems, Muséum national d’Histoire
 Naturelle*, Paris, France.
+
+`2021` President of a selection committee for a lecturer position
 
 ## Outreach
 

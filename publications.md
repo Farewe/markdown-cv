@@ -13,12 +13,13 @@ layout: cv
 
 Denelle P, **Leroy B**, Lenormand M. Bioregionalization analyses with the bioregion R-package [arXiv preprint](https://arxiv.org/abs/2404.15300)
 
+<!-- start_pub_list -->
 
 `2024`
 
 67\. Manfrini E, Courchamp F, **Leroy B**. In Press. Mitigating the role of aquaculture in crustacean invasions. *Reviews in Aquaculture* [doi]() --- [HAL]()
 
-66\. Pili A, **Leroy B**, et al. In Press.  Forecasting potential invaders to prevent future biological invasions worldwide. **Global Change Biology** [doi]() --- [HAL]()
+66\. Pili A, **Leroy B**, Measey JG, Farquhar JE, Toomes A, Cassey P, Chekunov S, Grenié M, van Winkel D, Maria L, Diesmos MLL, Diesmos AC, Zurell D, Courchamp F, Chapple DG. 2024.  Forecasting potential invaders to prevent future biological invasions worldwide. **Global Change Biology** [10.1111/gcb.17399](https://doi.org/10.1111/gcb.17399) --- [HAL](https://hal.science/hal-04651795v1)
 
 65\. Roiz D, Pontifes PA, Jourdain F, Diagne C, **Leroy B**, Vaissière AC, Tolsá-García MJ, Salles JM, Simard F, Courchamp F. (2024). The rising global economic costs of invasive Aedes mosquitoes and Aedes-borne diseases. *Science of The Total Environment*, 933, 173054. [10.1016/j.scitotenv.2024.173054](https://doi.org/10.1016/j.scitotenv.2024.173054) ---  [HAL](https://hal.science/hal-04573122v2)
 
@@ -29,7 +30,7 @@ Denelle P, **Leroy B**, Lenormand M. Bioregionalization analyses with the bioreg
 
 62\. Macêdo RL, Haubrock PJ, Klippel G, Fernandez RD, Leroy B, Angulo E, Carneiro L, Musseau CL, Rocha O, Cuthbert RN. (2024). The economic costs of invasive aquatic plants: A global perspective on ecology and management gaps. Science of The Total Environment, 908, 168217. [10.1016/j.scitotenv.2023.168217](https://doi.org/10.1016/j.scitotenv.2023.168217) --- [HAL](https://hal.science/hal-04347118v1)
 
-61\. Hanafi-Portier M, Samadi S, Corbari L, Boulard M, Miramontes E, Penven P, Leroy B, Napoléon T, Jorry SJ, & Olu K. (2024). Multiscale spatial patterns and environmental drivers of seamount and island slope megafaunal assemblages along the Mozambique channel. Deep Sea Research Part I: Oceanographic Research Papers, 203, 104198. [10.1016/j.dsr.2023.104198](https://doi.org/10.1016/j.dsr.2023.104198) --- [HAL](https://hal.science/hal-04337064v1)
+61\. Hanafi-Portier M, Samadi S, Corbari L, Boulard M, Miramontes E, Penven P, Leroy B, Napoléon T, Jorry SJ, Olu K. (2024). Multiscale spatial patterns and environmental drivers of seamount and island slope megafaunal assemblages along the Mozambique channel. Deep Sea Research Part I: Oceanographic Research Papers, 203, 104198. [10.1016/j.dsr.2023.104198](https://doi.org/10.1016/j.dsr.2023.104198) --- [HAL](https://hal.science/hal-04337064v1)
 
 
 `2023`
@@ -84,9 +85,9 @@ Denelle P, **Leroy B**, Lenormand M. Bioregionalization analyses with the bioreg
 
 38\. Nogues Q, Raoux A, Araignous E, Chaalali A, Hattab T, **Leroy B**, Ben Rais Lasram F, David V, Le Loc’h F, Dauvin JC, Niquil N. 2021. Cumulative Effects of Marine Renewable Energy and Climate Change on Ecosystem Properties: Sensitivity of Ecological Network Analysis. *Ecological Indicators* IN PRESS [10.1016/j.ecolind.2020.107128](https://doi.org/10.1016/j.ecolind.2020.107128) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03070300)
 
-37\. Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. 2021. High and rising economic costs of biological invasions worldwide *Nature* 592, pages 571–576 [10.1038/s41586-021-03405-6](https://doi.org/10.1038/s41586-021-03405-6) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03410347)
+37\. Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA, Courchamp F. 2021. High and rising economic costs of biological invasions worldwide *Nature* 592, pages 571–576 [10.1038/s41586-021-03405-6](https://doi.org/10.1038/s41586-021-03405-6) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03410347)
 
-36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. 2021. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* 22:212-225 [10.1111/faf.12515](https://doi.org/10.1111/faf.12515) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03326581)
+36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P, Raybaud V. 2021. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* 22:212-225 [10.1111/faf.12515](https://doi.org/10.1111/faf.12515) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03326581)
 
 `2020`
 
@@ -118,31 +119,31 @@ Denelle P, **Leroy B**, Lenormand M. Bioregionalization analyses with the bioreg
 
 `2018`
 
-23\. **Leroy B**, Delsol R, Meynard CN, Hugueny B & Bellard C. 2018. Without quality presence-absence data, discrimination metrics such as TSS can be misleading measures of model performance. *Journal of Biogeography*, 45:1994-2002 [10.1111/jbi.13402](https://doi.org/10.1111/jbi.13402) ---  [HAL](https://hal.archives-ouvertes.fr/hal-02628656)
+23\. **Leroy B**, Delsol R, Meynard CN, Hugueny B, Bellard C. 2018. Without quality presence-absence data, discrimination metrics such as TSS can be misleading measures of model performance. *Journal of Biogeography*, 45:1994-2002 [10.1111/jbi.13402](https://doi.org/10.1111/jbi.13402) ---  [HAL](https://hal.archives-ouvertes.fr/hal-02628656)
 
-22\. Bellard C, Jeschke J, **Leroy B** & Mace G.M. 2018. Insights from modelling studies on how climate change affects invasive alien species geography. *Ecology & Evolution* 8:5688-5700 [10.1002/ece3.4098](https://doi.org/10.1002/ece3.4098) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01833341)
+22\. Bellard C, Jeschke J, **Leroy B**, Mace G.M. 2018. Insights from modelling studies on how climate change affects invasive alien species geography. *Ecology & Evolution* 8:5688-5700 [10.1002/ece3.4098](https://doi.org/10.1002/ece3.4098) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01833341)
 
-21\. Pétillon J, **Leroy B**, Djoudi EA & Vedel V. 2018. Small and large spatial scale coexistence of Ctenid spiders in a neotropical forest (French Guiana). *Tropical Zoology*. 31:85-98 [10.1080/03946975.2018.1448531](https://doi.org/10.1080/03946975.2018.1448531) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01783650)
+21\. Pétillon J, **Leroy B**, Djoudi EA, Vedel V. 2018. Small and large spatial scale coexistence of Ctenid spiders in a neotropical forest (French Guiana). *Tropical Zoology*. 31:85-98 [10.1080/03946975.2018.1448531](https://doi.org/10.1080/03946975.2018.1448531) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01783650)
 
-20\. Mammola S & **Leroy B**. 2018. Applying species distribution models to caves and other subterranean ecosystems. Ecography 41:1194-1208 [10.1111/ecog.03464](https://doi.org/10.1111/ecog.03464) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03334302)
+20\. Mammola S, **Leroy B**. 2018. Applying species distribution models to caves and other subterranean ecosystems. Ecography 41:1194-1208 [10.1111/ecog.03464](https://doi.org/10.1111/ecog.03464) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03334302)
 
-19\. Hervé, V, **Leroy B**, Da Silva Pires A & Lopez, PJ. 2018. Aquatic urban ecology at the scale of a capital: community structure and interactions in street gutters. The ISME Journal 12:253-266 [10.1038/ismej.2017.166](https://doi.org/10.1038/ismej.2017.166) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01761460)
+19\. Hervé, V, **Leroy B**, Da Silva Pires A, Lopez, PJ. 2018. Aquatic urban ecology at the scale of a capital: community structure and interactions in street gutters. The ISME Journal 12:253-266 [10.1038/ismej.2017.166](https://doi.org/10.1038/ismej.2017.166) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01761460)
 
 `2017`
 
-18\. Bellard C, Rysman J-F, **Leroy B**, Claud C & Mace GM. 2017. A global picture of biological invasion threat on islands. *Nature Ecology & Evolution* 1:1862-1869 [s41559-017-0365-6](https://doi.org/10.1038/s41559-017-0365-6) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03252240)
+18\. Bellard C, Rysman J-F, **Leroy B**, Claud C, Mace GM. 2017. A global picture of biological invasion threat on islands. *Nature Ecology & Evolution* 1:1862-1869 [s41559-017-0365-6](https://doi.org/10.1038/s41559-017-0365-6) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03252240)
 
-17\. Gillard M, Thiebaut G, Deleu C & **Leroy B**. 2017. Present and future distribution of three aquatic plant taxa across the world: decrease in native and increase in invasive ranges. *Biological Invasions* 19:2159-2170. [10.1007/s10530-017-1428-y](https://doi.org/10.1007/s10530-017-1428-y) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01577986)
+17\. Gillard M, Thiebaut G, Deleu C, **Leroy B**. 2017. Present and future distribution of three aquatic plant taxa across the world: decrease in native and increase in invasive ranges. *Biological Invasions* 19:2159-2170. [10.1007/s10530-017-1428-y](https://doi.org/10.1007/s10530-017-1428-y) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01577986)
 
-16\. Hawkins BA, **Leroy B**, Rodríguez MÁ, Singer A, Villalobos F, Wang X, & Zelený D. 2017. Structural bias in aggregated trait variables driven by repeated species co-occurrences: a pervasive problem in community and assemblage data. *Journal of Biogeography* 44:1199-1211. [10.1111/jbi.12953](https://doi.org/10.1111/jbi.12953) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03334333)
+16\. Hawkins BA, **Leroy B**, Rodríguez MÁ, Singer A, Villalobos F, Wang X, Zelený D. 2017. Structural bias in aggregated trait variables driven by repeated species co-occurrences: a pervasive problem in community and assemblage data. *Journal of Biogeography* 44:1199-1211. [10.1111/jbi.12953](https://doi.org/10.1111/jbi.12953) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03334333)
 
-15\. **Leroy B**, Gallon R, Feunteun E, Robuchon M & Ysnel F. 2017. Cross-taxon congruence in the rarity of subtidal rocky marine assemblages : no taxonomic shortcut for conservation monitoring. *Ecological Indicators* 77:239-249 [10.1016/j.ecolind.2017.02.012](https://doi.org/10.1016/j.ecolind.2017.02.012) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01493202)
+15\. **Leroy B**, Gallon R, Feunteun E, Robuchon M, Ysnel F. 2017. Cross-taxon congruence in the rarity of subtidal rocky marine assemblages : no taxonomic shortcut for conservation monitoring. *Ecological Indicators* 77:239-249 [10.1016/j.ecolind.2017.02.012](https://doi.org/10.1016/j.ecolind.2017.02.012) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01493202)
 
 `2016`
 
-14\. Bradshaw CJA, **Leroy B**, Bellard C, Albert C, Roiz D, Barbet-Massin M, Fournier A, Salles JM, Simard F & Courchamp F. 2016. Massive yet grossly underestimated global costs of invasive insects. *Nature Communications* 7:12986 [10.1038/ncomms12986](https://doi.org/10.1038/ncomms12986) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01399019)
+14\. Bradshaw CJA, **Leroy B**, Bellard C, Albert C, Roiz D, Barbet-Massin M, Fournier A, Salles JM, Simard F, Courchamp F. 2016. Massive yet grossly underestimated global costs of invasive insects. *Nature Communications* 7:12986 [10.1038/ncomms12986](https://doi.org/10.1038/ncomms12986) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01399019)
 
-13\. Bellard C, **Leroy B**, Thuiller W, Rysman JF & Courchamp F. 2016. Major drivers of invasions risks throughout the world. *Ecosphere* 7:e01241 [10.1002/ecs2.1241](https://doi.org/10.1002/ecs2.1241) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01295636)
+13\. Bellard C, **Leroy B**, Thuiller W, Rysman JF, Courchamp F. 2016. Major drivers of invasions risks throughout the world. *Ecosphere* 7:e01241 [10.1002/ecs2.1241](https://doi.org/10.1002/ecs2.1241) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01295636)
 
 12\. **Leroy B**, Meynard CN, Bellard C, Courchamp F. 2016. virtualspecies: an R package to generate virtual species distributions. *Ecography* 39:599-607 [10.1111/ecog.01388](https://doi.org/10.1111/ecog.01388) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01604267)
 
@@ -155,30 +156,32 @@ Denelle P, **Leroy B**, Lenormand M. Bioregionalization analyses with the bioreg
 
 10\. Gallon R, Robuchon M, **Leroy B**, Le Gall L, Valero M, Feunteun E. 2014. 20 years of observed and predicted changes in subtidal red seaweed assemblages along a biogeographical transition zone: inferring potential causes from environmental data. *Journal of Biogeography* 41:2293-2306 [10.1111/jbi.12380](https://doi.org/10.1111/jbi.12380) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01137903)
 
-9\. Bellard C, Leclerc C, Leroy B, Bakkenes M, Veloz S, Thuiller W & Courchamp F. 2014. Vulnerability of biodiversity hotspots to global change. Global Ecology and Biogeography 23:1376–1386 [10.1111/geb.12228](https://doi.org/10.1111/geb.12228) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01374435)
+9\. Bellard C, Leclerc C, **Leroy B**, Bakkenes M, Veloz S, Thuiller W, Courchamp F. 2014. Vulnerability of biodiversity hotspots to global change. Global Ecology and Biogeography 23:1376–1386 [10.1111/geb.12228](https://doi.org/10.1111/geb.12228) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01374435)
 
 8\. **Leroy B**, Le Viol I, Pétillon J. 2014. Complementarity of rarity, specialisation and functional diversity metrics to assess community responses to environmental changes, using an example of spiders in salt marshes. *Ecological Indicators* 46:351-357 [j.ecolind.2014.06.037](https://doi.org/10.1016/j.ecolind.2014.06.037) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01101385)
 
-7\. Puzin C, **Leroy B** & Pétillon J.  2014. Intra- and inter-specific variation in size and habitus of two sibling spider species (Araneae: Lycosidae): taxonomic and biogeographic insights from sampling across Europe. *Biological Journal of the Linnean Society* 113:85-96 [10.1111/bij.12303](https://doi.org/10.1111/bij.12303) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01374436)
+7\. Puzin C, **Leroy B**, Pétillon J.  2014. Intra- and inter-specific variation in size and habitus of two sibling spider species (Araneae: Lycosidae): taxonomic and biogeographic insights from sampling across Europe. *Biological Journal of the Linnean Society* 113:85-96 [10.1111/bij.12303](https://doi.org/10.1111/bij.12303) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01374436)
 
-6\. **Leroy B**, Bellard C, Dubos N, Colliot A, Vasseur M, Courtial C, Bakkenes M, Canard A & Ysnel F. 2014. Forecasted climate and land use changes, and protected areas: the contrasting case of spiders. *Diversity and Distributions* 20:686-697 [10.1111/ddi.12191](https://doi.org/10.1111/ddi.12191) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03258609)
+6\. **Leroy B**, Bellard C, Dubos N, Colliot A, Vasseur M, Courtial C, Bakkenes M, Canard A, Ysnel F. 2014. Forecasted climate and land use changes, and protected areas: the contrasting case of spiders. *Diversity and Distributions* 20:686-697 [10.1111/ddi.12191](https://doi.org/10.1111/ddi.12191) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03258609)
 
 `2013`
 
-5\. Bellard C, Thuiller W, **Leroy B**, Genovesi P, Bakkenes M & Courchamp F. 2013. Will climate change promote future invasions? *Global Change Biology* 19:3740-3748 [10.1111/gcb.12344](https://doi.org/10.1111/gcb.12344) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03248750v1)
+5\. Bellard C, Thuiller W, **Leroy B**, Genovesi P, Bakkenes M, Courchamp F. 2013. Will climate change promote future invasions? *Global Change Biology* 19:3740-3748 [10.1111/gcb.12344](https://doi.org/10.1111/gcb.12344) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03248750v1)
 
-4\. **Leroy B**, Canard A & Ysnel F. 2013. Integrating multiple scales in rarity assessments of invertebrate taxa. Diversity and Distributions 19:794-803 [10.1111/ddi.12040](https://doi.org/10.1111/ddi.12040) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03334362v1)
+4\. **Leroy B**, Canard A, Ysnel F. 2013. Integrating multiple scales in rarity assessments of invertebrate taxa. Diversity and Distributions 19:794-803 [10.1111/ddi.12040](https://doi.org/10.1111/ddi.12040) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03334362v1)
 
-3\. **Leroy B**, Paschetta M, Canard A, Bakkenes M, Isaia M & Ysnel F. 2013. First assessment of effects of environmental change on threatened spiders: potential impacts on Dolomedes plantarius (Clerck) and its conservation plans. Biological Conservation 161:155-163 [10.1016/j.biocon.2013.03.022](https://doi.org/10.1016/j.biocon.2013.03.022) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03334391)
+3\. **Leroy B**, Paschetta M, Canard A, Bakkenes M, Isaia M, Ysnel F. 2013. First assessment of effects of environmental change on threatened spiders: potential impacts on Dolomedes plantarius (Clerck) and its conservation plans. Biological Conservation 161:155-163 [10.1016/j.biocon.2013.03.022](https://doi.org/10.1016/j.biocon.2013.03.022) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03334391)
 
 
 `2012`
 
-2\. **Leroy B**, Pétillon J, Gallon R, Canard A & Ysnel F. 2012. Improving occurrence-based rarity metrics in conservation studies by including multiple rarity cut-offs. *Insect Conservation and Diversity* 5:159-168 [10.1111/j.1752-4598.2011.00148.x](https://doi.org/10.1111/j.1752-4598.2011.00148.x) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01609992)
+2\. **Leroy B**, Pétillon J, Gallon R, Canard A, Ysnel F. 2012. Improving occurrence-based rarity metrics in conservation studies by including multiple rarity cut-offs. *Insect Conservation and Diversity* 5:159-168 [10.1111/j.1752-4598.2011.00148.x](https://doi.org/10.1111/j.1752-4598.2011.00148.x) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01609992)
 
 `2011`
 
-1\. **Leroy B**, Morel L, Eybert MC, Ysnel F & Georges A. 2011. Rehabilitation project of a managed marsh: biodiversity assessment of different management measures. *Procedia Environmental Sciences* 9:96-103 [10.1016/j.proenv.2011.11.016](https://doi.org/10.1016/j.proenv.2011.11.016) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01095395v1)
+1\. **Leroy B**, Morel L, Eybert MC, Ysnel F, Georges A. 2011. Rehabilitation project of a managed marsh: biodiversity assessment of different management measures. *Procedia Environmental Sciences* 9:96-103 [10.1016/j.proenv.2011.11.016](https://doi.org/10.1016/j.proenv.2011.11.016) ---  [HAL](https://hal.archives-ouvertes.fr/hal-01095395v1)
+
+<!-- end_pub_list -->
 
 ### Book chapters
 
@@ -230,7 +233,7 @@ Zenodo. 110 pp. https://doi.org/10.5281/zenodo.11067678
 
 `2021`
 
-9\. Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E & Courchamp F. 2021. Les coûts économiques des invasions biologiques en France. Synthèse à l’intention des décideurs. Rapport MNHN/Université Paris Saclay/ IUCN, Paris, France.
+9\. Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E, Courchamp F. 2021. Les coûts économiques des invasions biologiques en France. Synthèse à l’intention des décideurs. Rapport MNHN/Université Paris Saclay/ IUCN, Paris, France.
 
 8\. Ramiro-Sánchez B, Martin A, **Leroy B**. 2021. *SIOFA Vulnerable Marine Ecosystem Mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 23 pp.
 
@@ -251,10 +254,10 @@ Deliverable 4.6: Atlas of the main mesopelagic fish in the Southern
 Ocean
 
 `2015`
-2\. Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mares de Basse-Normandie en vue de l’application d’un indice biologique. Rapport de synthèse 2011-2014.* Rapport GRETIA pour le Conseil régional de Basse-Normandie, les Conseils généraux du Calvados, de la Manche et de l’Orne, et l’Agence de l’eau Seine-Normandie. 103 pp. + annexes.
+2\. Picard L., **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mares de Basse-Normandie en vue de l’application d’un indice biologique. Rapport de synthèse 2011-2014.* Rapport GRETIA pour le Conseil régional de Basse-Normandie, les Conseils généraux du Calvados, de la Manche et de l’Orne, et l’Agence de l’eau Seine-Normandie. 103 pp. + annexes.
 
 `2014`
-1\. Privet K., Canard A., Courtial C., Djoudi E.A., **Leroy B.**, Vedel, V. & Pétillon J. 2014. *Les araignées de la Réserve Naturelle Nationale des Nouragues : Facteurs de variations des assemblages et premier inventaire.* Rapport pour la Réserve Naturelle des Nouragues, Guyane Française, 23p
+1\. Privet K., Canard A., Courtial C., Djoudi E.A., **Leroy B.**, Vedel, V., Pétillon J. 2014. *Les araignées de la Réserve Naturelle Nationale des Nouragues : Facteurs de variations des assemblages et premier inventaire.* Rapport pour la Réserve Naturelle des Nouragues, Guyane Française, 23p
 
 
 ### Dissemination of research

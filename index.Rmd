@@ -74,9 +74,16 @@ gs <- get_profile(id)
 -->
 
 ### Journal articles
+```{r include=FALSE}
+source("scripts/count_author_position.R")
+pubs <- read_publications("publications.md")
+positions <- count_author_positions(pubs, "\\*\\*Leroy B\\*\\*")
+```
 
 
-67 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
+67 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`.
+
+Number of papers as 1st author: `r positions$first_author`, 2nd author: `r positions$second_author`, last author: `r positions$last_author`.
 
 *Selected publications:*
 
