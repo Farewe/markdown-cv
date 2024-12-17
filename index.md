@@ -50,9 +50,9 @@ Rennes, France
 
 ## Experience
 
-`2014-present` **Maître de conférences (lecturer)**, *Lab. Biology of
-Aquatic Organisms & Ecosystems, Muséum national d’Histoire Naturelle*,
-Paris, France.
+`2014 to the end of times` **Maître de conférences (lecturer)**, *Lab.
+Biology of Aquatic Organisms & Ecosystems, Muséum national d’Histoire
+Naturelle*, Paris, France.
 
 `2014` **Post-doctoral fellow**, *UMR 8079 Ecology Systematics &
 Evolution, University of Paris South XI*, Orsay, France.
@@ -65,15 +65,28 @@ Management, University of Rennes 1*, Rennes, France.
 *Full Publication list available
 [here](https://farewe.github.io/markdown-cv/publications.html).*
 
+### Main projects I currently participate in
+
+- ESPOIRS (PI): Global change effects on rocky shores with citizen
+  sciences, a mechanism for interaction between science and society
+- bioregion (co-PI): Developping, testing and improving methods for
+  bioregionalization. Co-PIs: Pierre Denelle & Maxime Lenormand
+- INVAPACT (WP leader): Global ecological impacts of biological
+  invasions. PI: Franck Courchamp
+- INVACOST (WP leader): Global economic costs of biological invasions.
+  PI: Franck Courchamp
+- Global change effects on biogeographical patterns (multiple
+  sub-projects going on)
+
 <!--
 ### Journal articles, in preparation
 -->
 
 ### Journal articles
 
-67 published peer-reviewed articles. h-index: 37; i10-index: 51.
+70 published peer-reviewed articles. h-index: 37; i10-index: 56.
 
-Number of papers as 1st author: 13, 2nd author: 12, last author: 11.
+Number of papers as 1st author: 13, 2nd author: 14, last author: 11.
 
 *Selected publications:*
 
@@ -115,35 +128,42 @@ rarity assessments of invertebrate taxa. Diversity and Distributions
 
 ### Software
 
-Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of
-Bioregionalisation Methods. Current version: 1.0
+Lenormand M, **Leroy B**, Denelle P. 2023-2024. bioregion: Comparison of
+Bioregionalisation Methods. Current version: 1.1.1-1
 <https://cran.r-project.org/package=bioregion> Open-source code
 repository available here: <https://github.com/bioRgeo/bioregion>
 
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2023. **invacost**,
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2024. **invacost**,
 package for the R software. Analyse Biological Invasion Costs with the
 ‘InvaCost’ Database. Published on the Comprehensive R Archive Network.
-Current version: 1.1-1. <https://cran.r-project.org/package=invacost>
+Current version: 1.1-6. <https://cran.r-project.org/package=invacost>
 Open-source code repository available here:
 <https://github.com/Farewe/invacost>
 
-**Leroy B.** 2019-2023. **biogeonetworks**, package for the R software.
-Biogeographical networks in R. Current version : 0.1.2.
-<https://github.com/Farewe/biogeonetworks>
+**Leroy B.** 2019-2024. **biogeonetworks**, package for the R software.
+Biogeographical networks in R. Current (and last) version : 0.1.2.
+<https://github.com/Farewe/biogeonetworks> This package has been
+replaced by bioregion
 
-**Leroy B.** 2014-2023. **virtualspecies**, package for the R software.
+**Leroy B.** 2014-2024. **virtualspecies**, package for the R software.
 A package to generate virtual species distribution for improvements of
 modeling techniques. Published on the Comprehensive R Archive Network.
-Current version : 1.5.1. <http://borisleroy.com/virtualspecies>
+Current version : 1.6 <http://borisleroy.com/virtualspecies>
 
-**Leroy B.** 2012-2023. **Rarity**, package for the R software. A
+**Leroy B.** 2012-2024. **Rarity**, package for the R software. A
 package to calculate rarity indices for species and assemblages of
 species. Published on the Comprehensive R Archive Network. Current
-version : 1.3-6. <https://cran.r-project.org/package=Rarity>
+version : 1.3-8. <https://cran.r-project.org/package=Rarity>
 
 ## Expertise
 
 **19** expertise reports published
+
+`2024` *Consultant*, *DREAL Corse*, Predictive mapping of species
+subject to national action plans
+
+`2020-2023` *Consultant*, *Southern Indian Ocean Fisheries Agreement*,
+Vulnerable Marine Ecosystems
 
 `2020-2023` **Contributing Author**, *Intergovernmental Platform on
 Biodiversity & Ecosystem Services*, Invasive Alien Species Assessment
@@ -299,7 +319,7 @@ tutorial](https://github.com/Farewe/biogeonetworks)
 
 ### Postdoctoral researchers
 
-`2023-2024` **Bruno Serranito**, *BOREA, Muséum National d’Histoire
+`2023-2025` **Bruno Serranito**, *BOREA, Muséum National d’Histoire
 Naturelle*, Dinard, France.<br/> Co-supervised with Eric Feunteun<br />
 Developing bioindicators for rocky foreshores: citizen sciences, a
 mechanism for interaction between science and society.
@@ -342,6 +362,12 @@ Courchamp & Céline Bellard <br /> Biological invasions of freshwater
 fishes.
 
 ### Engineers
+
+`2024-2025` **Célia Mebarki**, *BOREA, Muséum National d’Histoire
+Naturelle*, Dinard, France.<br/> Co-supervised with Florian Charvolin &
+Marine Jacquin. Sociology engineer for the ESPOIRS project (Developing
+bioindicators for rocky foreshores: citizen sciences, a mechanism for
+interaction between science and society)<br />
 
 `2021` **Andéol Bourgouin**, *Terres Australes et Antarctiques
 Françaises*, Paris, France.<br /> Bioregionalisation of the Saint-Paul
@@ -407,11 +433,31 @@ France.<br/> Co-supervised with Céline Bellard
 
 ### Undergraduate interns
 
-`2023`
+`2023` **Nicolas Den Dryver**, *Licence 2, Paris-Saclay University*,
+Orsay, France
 
 `2019` **Rémy Le Goff**, *Licence 2, Sorbonne University*, Paris, France
 
 `2017` **Samuel Lu**, *Licence 3, Sorbonne University*, Paris, France
+
+### PhD examinations
+
+`2024` **Emma Chollet Ramampiandra**, From black boxes to ecological
+insights: Exploring the use of machine learning in species distribution
+modelling, ETH Zurich, Switzerland
+
+`2022` **Liam Grimmett**, The application of virtual species to
+investigate how landscape characteristics affect species distribution
+model transferability, Charles Sturt University, Australia
+
+`2019` **Clémentine Préau**, Identification and modelling of habitats
+for species at risk and evolution of their range with climate change,
+*Lab Ecologie et biologie des interactions, Université de Poitiers*,
+Poitiers, France
+
+`2018` **Alice Fournier**, Modelling and predicting biological
+invasions, *Laboratory Ecology Systematics & Evolution, University Paris
+South XI*, Orsay, France
 
 ### PhD committees
 
@@ -519,4 +565,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Jul 2024<br/><br/>
+<br/>Last updated: Dec 2024<br/><br/>

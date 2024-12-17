@@ -11,17 +11,27 @@ layout: cv
 
 `Submitted`
 
-Denelle P, **Leroy B**, Lenormand M. Bioregionalization analyses with the bioregion R-package [arXiv preprint](https://arxiv.org/abs/2404.15300)
+<!-- formatter les refs avec source("scripts/format_ref.R")-->
+
+<!-- format_reference_from_doi("10.1186/s13717-024-00495-8") -->
 
 <!-- start_pub_list -->
 
+`2025`
+
+70\. Denelle P, **Leroy B**, Lenormand M. In Press. Bioregionalization analyses with the bioregion R-package. *Methods in Ecology & Evolution* [doi]() --- [hal]() --- [arXiv preprint](https://arxiv.org/abs/2404.15300)
+
+69\. Manfrini E, Courchamp F, **Leroy B**. (2025). Mitigating the role of aquaculture in crustacean invasions. *Reviews in Aquaculture* 17:e12952 [doi](https://doi.org/10.1111/raq.12952) --- [HAL](https://hal.science/hal-04799677v1)
+
 `2024`
 
-67\. Manfrini E, Courchamp F, **Leroy B**. In Press. Mitigating the role of aquaculture in crustacean invasions. *Reviews in Aquaculture* [doi]() --- [HAL]()
+68\. Serandour B, Blenckner T, Jan KMG, **Leroy B**, Ramiro‐Sánchez B, Campbell E, Winder M. (2024). Spatial distribution projections of suitable environmental conditions for key Baltic Sea zooplankton species. *Limnology and Oceanography* : [doi](https://doi.org/10.1002/lno.12705) --- [HAL](https://hal.science/hal-04842797v1)
 
-66\. Pili A, **Leroy B**, Measey JG, Farquhar JE, Toomes A, Cassey P, Chekunov S, Grenié M, van Winkel D, Maria L, Diesmos MLL, Diesmos AC, Zurell D, Courchamp F, Chapple DG. 2024.  Forecasting potential invaders to prevent future biological invasions worldwide. **Global Change Biology** 30:e17399. [10.1111/gcb.17399](https://doi.org/10.1111/gcb.17399) --- [HAL](https://hal.science/hal-04651795v1)
+67\. Marino C, **Leroy B**, Latombe G, Bellard C. (2024). Exposure and Sensitivity of Terrestrial Vertebrates to Biological Invasions Worldwide. *Global Change Biology* 30:e17607 [doi](https://doi.org/10.1111/gcb.17607) --- [HAL]()
 
-65\. Roiz D, Pontifes PA, Jourdain F, Diagne C, **Leroy B**, Vaissière AC, Tolsá-García MJ, Salles JM, Simard F, Courchamp F. (2024). The rising global economic costs of invasive Aedes mosquitoes and Aedes-borne diseases. *Science of The Total Environment*, 933, 173054. [10.1016/j.scitotenv.2024.173054](https://doi.org/10.1016/j.scitotenv.2024.173054) ---  [HAL](https://hal.science/hal-04573122v2)
+66\. Pili A, **Leroy B**, Measey JG, Farquhar JE, Toomes A, Cassey P, Chekunov S, Grenié M, van Winkel D, Maria L, Diesmos MLL, Diesmos AC, Zurell D, Courchamp F, Chapple DG. (2024).  Forecasting potential invaders to prevent future biological invasions worldwide. **Global Change Biology** 30:e17399. [10.1111/gcb.17399](https://doi.org/10.1111/gcb.17399) --- [HAL](https://hal.science/hal-04651795v1)
+
+65\. Roiz D, Pontifes PA, Jourdain F, Diagne C, **Leroy B**, Vaissière A, Tolsá-García MJ, Salles J, Simard F, Courchamp F. (2024). The rising global economic costs of invasive Aedes mosquitoes and Aedes-borne diseases. *Science of The Total Environment* 933:173054 [doi](https://doi.org/10.1016/j.scitotenv.2024.173054) --- [HAL](https://hal.science/hal-04573122)
 
 64\. Bernery C, Bellard C, Courchamp F, Brosse S, **Leroy B**. (2024). A global analysis of the introduction pathways and characteristics associated with non-native fish species introduction, establishment, and impacts. Ecological Processes, 13(1), 22. [10.1186/s13717-024-00495-8](https://doi.org/10.1186/s13717-024-00495-8) --- 
 [HAL](https://hal.science/hal-04513049v1)
@@ -191,17 +201,34 @@ Denelle P, **Leroy B**, Lenormand M. Bioregionalization analyses with the bioreg
 
 ### Software
 
-5\. Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of Bioregionalisation Methods. Current version: 1.0  https://cran.r-project.org/package=bioregion Open-source code repository available here: https://github.com/bioRgeo/bioregion
+4\. Lenormand M, **Leroy B**, Denelle P. 2023-2024. bioregion: Comparison of
+Bioregionalisation Methods. Current version: 1.1.1-1
+<https://cran.r-project.org/package=bioregion> Open-source code
+repository available here: <https://github.com/bioRgeo/bioregion>
 
-4\. **Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2023. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-5. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
+4\. **Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2024. **invacost**,
+package for the R software. Analyse Biological Invasion Costs with the
+‘InvaCost’ Database. Published on the Comprehensive R Archive Network.
+Current version: 1.1-6. <https://cran.r-project.org/package=invacost>
+Open-source code repository available here:
+<https://github.com/Farewe/invacost>
 
-3\. **Leroy B.** 2019-2023. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
+3\. **Leroy B.** 2019-2024. **biogeonetworks**, package for the R software.
+Biogeographical networks in R. Current (and last) version : 0.1.2.
+<https://github.com/Farewe/biogeonetworks> This package has been
+replaced by bioregion
 
-2\. **Leroy B.** 2014-2023. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
+2\. **Leroy B.** 2014-2024. **virtualspecies**, package for the R software.
+A package to generate virtual species distribution for improvements of
+modeling techniques. Published on the Comprehensive R Archive Network.
+Current version : 1.6 <http://borisleroy.com/virtualspecies>
 
-1\. **Leroy B.** 2012-2023. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-8.  https://cran.r-project.org/package=Rarity
+1\. **Leroy B.** 2012-2024. **Rarity**, package for the R software. A
+package to calculate rarity indices for species and assemblages of
+species. Published on the Comprehensive R Archive Network. Current
+version : 1.3-8. <https://cran.r-project.org/package=Rarity>
 
-### Expertise reports
+<!-- start_exp_list -->
 
 `2024`
 
@@ -259,8 +286,18 @@ Ocean
 `2014`
 1\. Privet K., Canard A., Courtial C., Djoudi E.A., **Leroy B.**, Vedel, V., Pétillon J. 2014. *Les araignées de la Réserve Naturelle Nationale des Nouragues : Facteurs de variations des assemblages et premier inventaire.* Rapport pour la Réserve Naturelle des Nouragues, Guyane Française, 23p
 
+<!-- end_exp_list -->
 
 ### Dissemination of research
+
+`2024`
+
+**Podcast** [Des ruisseaux aux Océans, la grande connexion](https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/des-ruisseaux-aux-oceans-la-grande-connexion-5512155) (starting at ~39mn)
+
+
+`2023`
+
+**Leroy B** [La répartition géographique des poissons d’eau douce, nouveau marqueur de l’anthropocène ?](https://theconversation.com/la-repartition-geographique-des-poissons-deau-douce-nouveau-marqueur-de-lanthropocene-217976)
 
 `2021`
 

@@ -22,6 +22,50 @@ read_publications <- function(file_path) {
   return(publications)
 }
 
+read_expertise <- function(file_path) {
+  # Read the entire file into a single string
+  content <- readLines(file_path)
+  
+  content <- content[!grepl("^`\\d{4}`$", content)]
+  
+  # Combine all lines into a single string, then split by two consecutive newlines
+  combined_content <- paste(content, collapse = "\n")
+  publications <- str_split(combined_content, "\\n\\n")[[1]]
+  
+  # Keep only peer-reviewed publications
+  publications <- publications[
+    (which(publications == "<!-- start_exp_list -->") + 1):
+      (which(publications == "<!-- end_exp_list -->") - 1)
+  ]
+  
+  publications <- publications[which(publications != "")]
+  
+  return(publications)
+}
+
+read_publications <- function(file_path) {
+  # Read the entire file into a single string
+  content <- readLines(file_path)
+  
+  content <- content[!grepl("^`\\d{4}`$", content)]
+  
+  # Combine all lines into a single string, then split by two consecutive newlines
+  combined_content <- paste(content, collapse = "\n")
+  publications <- str_split(combined_content, "\\n\\n")[[1]]
+  
+  # Keep only peer-reviewed publications
+  publications <- publications[
+    (which(publications == "<!-- start_pub_list -->") + 1):
+      (which(publications == "<!-- end_pub_list -->") - 1)
+  ]
+  
+  publications <- publications[which(publications != "")]
+  
+  return(publications)
+}
+
+
+
 # Function to count first and last author publications
 count_author_positions <- function(publications, name) {
   first_author_count <- 0

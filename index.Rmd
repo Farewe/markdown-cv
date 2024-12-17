@@ -55,7 +55,7 @@ gs <- get_profile(id)
 
 ## Experience
 
-`2014-present`
+`2014 to the end of times`
 **Maître de conférences (lecturer)**, *Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris, France.
 
 `2014`
@@ -69,6 +69,14 @@ gs <- get_profile(id)
 *Full Publication list  available [here](https://farewe.github.io/markdown-cv/publications.html).* 
 
 
+### Main projects I currently participate in
+
+ - ESPOIRS (PI): Global change effects on rocky shores with citizen sciences, a mechanism for interaction between science and society
+ - bioregion (co-PI): Developping, testing and improving methods for bioregionalization. Co-PIs: Pierre Denelle & Maxime Lenormand
+ - INVAPACT (WP leader): Global ecological impacts of biological invasions. PI: Franck Courchamp
+ - INVACOST (WP leader): Global economic costs of biological invasions. PI: Franck Courchamp
+ - Global change effects on biogeographical patterns (multiple sub-projects going on)
+
 <!--
 ### Journal articles, in preparation
 -->
@@ -77,11 +85,12 @@ gs <- get_profile(id)
 ```{r include=FALSE}
 source("scripts/count_author_position.R")
 pubs <- read_publications("publications.md")
+exp <- read_expertise("publications.md")
 positions <- count_author_positions(pubs, "\\*\\*Leroy B\\*\\*")
 ```
 
 
-67 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`.
+`r length(pubs)` published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`.
 
 Number of papers as 1st author: `r positions$first_author`, 2nd author: `r positions$second_author`, last author: `r positions$last_author`.
 
@@ -103,20 +112,29 @@ Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Br
 
 ### Software
 
-Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of Bioregionalisation Methods. Current version: 1.0  https://cran.r-project.org/package=bioregion Open-source code repository available here: https://github.com/bioRgeo/bioregion
 
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2023. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
+```{r include=FALSE}
+info <- available.packages(contriburl = "https://cran.rstudio.com/src/contrib")
+```
 
-**Leroy B.** 2019-2023. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
+Lenormand M, **Leroy B**, Denelle P. 2023-`r format(Sys.Date(), "%Y")`. bioregion: Comparison of Bioregionalisation Methods. Current version: `r info["bioregion", "Version"]` https://cran.r-project.org/package=bioregion Open-source code repository available here: https://github.com/bioRgeo/bioregion
 
-**Leroy B.** 2014-2023. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-`r format(Sys.Date(), "%Y")`. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: `r info["invacost", "Version"]`. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
 
-**Leroy B.** 2012-2023. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-6.  https://cran.r-project.org/package=Rarity
+**Leroy B.** 2019-2024. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current (and last) version : 0.1.2. https://github.com/Farewe/biogeonetworks This package has been replaced by bioregion
+
+**Leroy B.** 2014-`r format(Sys.Date(), "%Y")`. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : `r info["virtualspecies", "Version"]` http://borisleroy.com/virtualspecies
+
+**Leroy B.** 2012-`r format(Sys.Date(), "%Y")`. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : `r info["Rarity", "Version"]`.  https://cran.r-project.org/package=Rarity
 
 
 ## Expertise
 
-**19** expertise reports published
+**`r length(exp)`** expertise reports published
+
+`2024` *Consultant*, *DREAL Corse*, Predictive mapping of species subject to national action plans
+
+`2020-2023` *Consultant*, *Southern Indian Ocean Fisheries Agreement*, Vulnerable Marine Ecosystems 
 
 `2020-2023`
 **Contributing Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*, Invasive Alien Species Assessment
@@ -248,7 +266,7 @@ TROPHIK project: Ecosystemic approach of Renewable Marine Energies: Modelling th
 
 ### Postdoctoral researchers
 
-`2023-2024` **Bruno Serranito**, *BOREA, Muséum National d'Histoire Naturelle*, Dinard, France.<br/>
+`2023-2025` **Bruno Serranito**, *BOREA, Muséum National d'Histoire Naturelle*, Dinard, France.<br/>
 Co-supervised with Eric Feunteun<br />
 Developing bioindicators for rocky foreshores: citizen sciences, a mechanism for interaction between science and society.
 
@@ -294,6 +312,10 @@ Co-supervised with Franck Courchamp & Céline Bellard <br />
 Biological invasions of freshwater fishes.
 
 ### Engineers
+
+`2024-2025`
+**Célia Mebarki**, *BOREA, Muséum National d'Histoire Naturelle*, Dinard, France.<br/>
+Co-supervised with Florian Charvolin & Marine Jacquin. Sociology engineer for the ESPOIRS project (Developing bioindicators for rocky foreshores: citizen sciences, a mechanism for interaction between science and society)<br />
 
 `2021`
 **Andéol Bourgouin**, *Terres Australes et Antarctiques Françaises*, Paris, France.<br />
@@ -366,7 +388,7 @@ Co-supervised with Céline Bellard
 ### Undergraduate interns
 
 `2023`
-
+**Nicolas Den Dryver**, *Licence 2, Paris-Saclay University*, Orsay, France
 
 `2019`
 **Rémy Le Goff**, *Licence 2, Sorbonne University*, Paris, France
@@ -374,6 +396,19 @@ Co-supervised with Céline Bellard
 `2017`
 **Samuel Lu**, *Licence 3, Sorbonne University*, Paris, France
 
+
+### PhD examinations
+
+`2024` **Emma Chollet Ramampiandra**, From black boxes to ecological insights: Exploring the
+use of machine learning in species distribution modelling, ETH Zurich, Switzerland
+
+`2022` **Liam Grimmett**, The application of virtual species to investigate how landscape characteristics affect species distribution model transferability, Charles Sturt University, Australia
+
+`2019`
+**Clémentine Préau**, Identification and modelling of habitats for species at risk and evolution of their range with climate change, *Lab Ecologie et biologie des interactions,  Université de Poitiers*, Poitiers, France
+
+`2018`
+**Alice Fournier**, Modelling and predicting biological invasions, *Laboratory Ecology Systematics & Evolution, University Paris South XI*, Orsay, France
 
 ### PhD committees
 
@@ -442,7 +477,6 @@ Co-supervised with Céline Bellard
 `2023` **Press** Biological invasions of freshwater fishes and the Anthropocene.
 AFP, The Conversation, L'info durable, Presse Agence, France Inter, France Culture (x2), Geo, H20, The Cleveland American, East Africa News Post, Reporterre, Le Figaro, Natura Science. 
 
-
 `2021`
 **Press** Multiple interviews on the themes of biological invasions, climate change and modelling (Science News, Polytechnique Insights, France TV info, Radio la 1ère//Planète Outre-Mer, Science & Vie)
 
@@ -463,7 +497,7 @@ scénarios des conséquences du réchauffement sur la faune](http://www.dailymot
 
 
 
-```{r echo=FALSE, results="hide", message="hide", warning=FALSE} 
+```{r echo=FALSE, results=FALSE, message=FALSE, warning=FALSE} 
 Sys.setlocale("LC_ALL","English")
 ```
 <br/>Last updated: `r zoo::Sys.yearmon()`<br/><br/>
