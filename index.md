@@ -444,11 +444,15 @@ Orsay, France
 
 `2024` **Emma Chollet Ramampiandra**, From black boxes to ecological
 insights: Exploring the use of machine learning in species distribution
-modelling, ETH Zurich, Switzerland
+modelling, *ETH Zurich, Zurich, Switzerland*
+
+`2023` **Marie Zakardjian**, Solitary bee introductions and associated
+impacts: from a global vision to a local approach in New Caledonia,
+*Aix-Marseille University, Marseille, France*
 
 `2022` **Liam Grimmett**, The application of virtual species to
 investigate how landscape characteristics affect species distribution
-model transferability, Charles Sturt University, Australia
+model transferability, *Charles Sturt University, Australia*
 
 `2019` **Clémentine Préau**, Identification and modelling of habitats
 for species at risk and evolution of their range with climate change,
