@@ -157,12 +157,12 @@ version : 1.3-8. <https://cran.r-project.org/package=Rarity>
 
 ## Expertise
 
-**19** expertise reports published
+**20** expertise reports published
 
-`2024` *Consultant*, *DREAL Corse*, Predictive mapping of species
+`2024` **Consultant**, *DREAL Corse*, Predictive mapping of species
 subject to national action plans
 
-`2020-2023` *Consultant*, *Southern Indian Ocean Fisheries Agreement*,
+`2020-2023` **Consultant**, *Southern Indian Ocean Fisheries Agreement*,
 Vulnerable Marine Ecosystems
 
 `2020-2023` **Contributing Author**, *Intergovernmental Platform on

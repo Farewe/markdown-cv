@@ -201,7 +201,7 @@ layout: cv
 
 ### Software
 
-4\. Lenormand M, **Leroy B**, Denelle P. 2023-2024. bioregion: Comparison of
+5\. Lenormand M, **Leroy B**, Denelle P. 2023-2024. bioregion: Comparison of
 Bioregionalisation Methods. Current version: 1.1.1-1
 <https://cran.r-project.org/package=bioregion> Open-source code
 repository available here: <https://github.com/bioRgeo/bioregion>
@@ -228,15 +228,19 @@ package to calculate rarity indices for species and assemblages of
 species. Published on the Comprehensive R Archive Network. Current
 version : 1.3-8. <https://cran.r-project.org/package=Rarity>
 
+### Expertise reports
+
 <!-- start_exp_list -->
 
 `2024`
 
-19\. **Leroy B**. (2024). Cartographie prédictive des habitats des groupes d’espèces ciblées
+20\. **Leroy B**. (2024). Cartographie prédictive des habitats des groupes d’espèces ciblées
 par les Plans Nationaux d’Actions en Corse. Rapport pour la DREAL de Corse.
 Zenodo. 110 pp. https://doi.org/10.5281/zenodo.11067678
 
 `2023`
+
+19\. IPBES (2023). Thematic Assessment Report on Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. Roy, H. E., Pauchard, A., Stoett, P., Renard Truong, T., Bacher, S., Galil, B. S., Hulme, P. E., Ikeda, T., Sankaran, K. V., McGeoch, M. A., Meyerson, L. A., Nuñez, M. A., Ordonez, A., Rahlao, S. J., Schwindt, E., Seebens, H., Sheppard, A. W., and Vandvik, V. (eds.). IPBES secretariat, Bonn, Germany. https://doi.org/10.5281/zenodo.7430692
 
 18\. Ramiro-Sanchez B., Woolley S. and **Leroy B**. (2023). Bioregionalization of the SIOFA area based on vulnerable marine ecosystem indicator taxa (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 30pp.
 

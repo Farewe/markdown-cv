@@ -132,9 +132,9 @@ Lenormand M, **Leroy B**, Denelle P. 2023-`r format(Sys.Date(), "%Y")`. bioregio
 
 **`r length(exp)`** expertise reports published
 
-`2024` *Consultant*, *DREAL Corse*, Predictive mapping of species subject to national action plans
+`2024` **Consultant**, *DREAL Corse*, Predictive mapping of species subject to national action plans
 
-`2020-2023` *Consultant*, *Southern Indian Ocean Fisheries Agreement*, Vulnerable Marine Ecosystems 
+`2020-2023` **Consultant**, *Southern Indian Ocean Fisheries Agreement*, Vulnerable Marine Ecosystems 
 
 `2020-2023`
 **Contributing Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*, Invasive Alien Species Assessment
