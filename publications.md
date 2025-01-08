@@ -25,9 +25,9 @@ layout: cv
 
 `2024`
 
-68\. Serandour B, Blenckner T, Jan KMG, **Leroy B**, Ramiro‐Sánchez B, Campbell E, Winder M. (2024). Spatial distribution projections of suitable environmental conditions for key Baltic Sea zooplankton species. *Limnology and Oceanography* : [doi](https://doi.org/10.1002/lno.12705) --- [HAL](https://hal.science/hal-04842797v1)
+68\. Serandour B, Blenckner T, Jan KMG, **Leroy B**, Ramiro‐Sánchez B, Campbell E, Winder M. (2024). Spatial distribution projections of suitable environmental conditions for key Baltic Sea zooplankton species. *Limnology and Oceanography* 69:2801-2814 [doi](https://doi.org/10.1002/lno.12705) --- [HAL](https://hal.science/hal-04842797)
 
-67\. Marino C, **Leroy B**, Latombe G, Bellard C. (2024). Exposure and Sensitivity of Terrestrial Vertebrates to Biological Invasions Worldwide. *Global Change Biology* 30:e17607 [doi](https://doi.org/10.1111/gcb.17607) --- [HAL]()
+67\. Marino C, **Leroy B**, Latombe G, Bellard C. (2024). Exposure and Sensitivity of Terrestrial Vertebrates to Biological Invasions Worldwide. *Global Change Biology* 30: [doi](https://doi.org/10.1111/gcb.17607) --- [HAL](https://hal.science/hal-04842692)
 
 66\. Pili A, **Leroy B**, Measey JG, Farquhar JE, Toomes A, Cassey P, Chekunov S, Grenié M, van Winkel D, Maria L, Diesmos MLL, Diesmos AC, Zurell D, Courchamp F, Chapple DG. (2024).  Forecasting potential invaders to prevent future biological invasions worldwide. **Global Change Biology** 30:e17399. [10.1111/gcb.17399](https://doi.org/10.1111/gcb.17399) --- [HAL](https://hal.science/hal-04651795v1)
 

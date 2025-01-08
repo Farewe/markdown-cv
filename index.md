@@ -13,8 +13,10 @@ layout: cv
 
 Maitre de Conférences, Muséum National d’Histoire Naturelle
 
-Biology of Aquatic Organisms and Ecosystems<br/> 43 rue Cuvier, CP
-26<br/> 75005 Paris, France<br/>
+Lab. Biology of Aquatic Organisms and Ecosystems<br/> Co-leader of group
+AQUATREND “Quantitative analysis of aquatic biodiversity trends in
+response to global changes”<br/> 43 rue Cuvier, CP 26<br/> 75005 Paris,
+France<br/>
 
 leroy.boris@@gmail.com
 
@@ -84,7 +86,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-70 published peer-reviewed articles. h-index: 37; i10-index: 56.
+70 published peer-reviewed articles. h-index: 37; i10-index: 57.
 
 Number of papers as 1st author: 13, 2nd author: 14, last author: 11.
 
@@ -128,12 +130,12 @@ rarity assessments of invertebrate taxa. Diversity and Distributions
 
 ### Software
 
-Lenormand M, **Leroy B**, Denelle P. 2023-2024. bioregion: Comparison of
+Lenormand M, **Leroy B**, Denelle P. 2023-2025. bioregion: Comparison of
 Bioregionalisation Methods. Current version: 1.1.1-1
 <https://cran.r-project.org/package=bioregion> Open-source code
 repository available here: <https://github.com/bioRgeo/bioregion>
 
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2024. **invacost**,
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2025. **invacost**,
 package for the R software. Analyse Biological Invasion Costs with the
 ‘InvaCost’ Database. Published on the Comprehensive R Archive Network.
 Current version: 1.1-6. <https://cran.r-project.org/package=invacost>
@@ -145,12 +147,12 @@ Biogeographical networks in R. Current (and last) version : 0.1.2.
 <https://github.com/Farewe/biogeonetworks> This package has been
 replaced by bioregion
 
-**Leroy B.** 2014-2024. **virtualspecies**, package for the R software.
+**Leroy B.** 2014-2025. **virtualspecies**, package for the R software.
 A package to generate virtual species distribution for improvements of
 modeling techniques. Published on the Comprehensive R Archive Network.
 Current version : 1.6 <http://borisleroy.com/virtualspecies>
 
-**Leroy B.** 2012-2024. **Rarity**, package for the R software. A
+**Leroy B.** 2012-2025. **Rarity**, package for the R software. A
 package to calculate rarity indices for species and assemblages of
 species. Published on the Comprehensive R Archive Network. Current
 version : 1.3-8. <https://cran.r-project.org/package=Rarity>
@@ -569,4 +571,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Dec 2024<br/><br/>
+<br/>Last updated: Jan 2025<br/><br/>
