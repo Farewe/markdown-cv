@@ -1,10 +1,10 @@
 ---
-title: "Boris Leroy's CV (short version)"
 output:
-  pdf_document: default
-  md_document:
-    variant: gfm
-    preserve_yaml: true
+  pdf_document:
+    latex_engine: pdflatex
+header-includes:
+  - \usepackage[margin=1in]{geometry}
+  - \setlength{\parskip}{5pt}
 layout: cv
 ---
 
@@ -18,8 +18,6 @@ Biology of Aquatic Organisms and Ecosystems<br/>
 75005 Paris, France<br/>
 
 leroy.boris@@gmail.com
-
-
 
 [borisleroy.com](https://borisleroy.com) - 
 [lab page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
@@ -38,39 +36,80 @@ gs <- get_profile(id)
 
 *My research focuses on global biogeographical patterns of aquatic biodiversity (marine and freshwater) and their underlying direct and indirect drivers. I investigate with various macroecological and biogeographical methods how global changes alter the natural distribution of biodiversity. My main research topics are: biogeography, macroecology, invasion biology; with a special emphasis on the development of methods and facilitating access to these methods with open-source software. *
 
-## Education
-`2012`
-**Ph.D., Life Sciences**, *Muséum national d'histoire naturelle/Université de Rennes 1*, Rennes, France
+## Education & experience
 
-## Experience
 `2014-present`
-**Maître de conférences (lecturer)**, *Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris, France.
+**Maître de conférences (lecturer)**, *Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris
 
 `2014`
-**Post-doctoral fellow**, *UMR 8079 Ecology Systematics & Evolution, University of Paris South XI*, Orsay, France.
+**Post-doctoral fellow**, *UMR 8079 Ecology Systematics & Evolution, University of Paris South XI*, Orsay
 
 `2013`
-**Post-doctoral fellow**, *Lab. Biodiversity & Territory Management, University of Rennes 1*, Rennes, France.
+**Post-doctoral fellow**, *Lab. Biodiversity & Territory Management, University of Rennes 1*, Rennes
+
+`2012`
+**Ph.D., Life Sciences**, *Muséum national d'histoire naturelle/Université de Rennes 1*, Rennes
+
 
 ## Publications
 
 *[Full Publication list  available by clicking here](https://farewe.github.io/markdown-cv/publications.html).*
 
 ### Journal articles
-67 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
+```{r include=FALSE}
+source("scripts/count_author_position.R")
+pubs <- read_publications("publications.md")
+exp <- read_expertise("publications.md")
+positions <- count_author_positions(pubs, "\\*\\*Leroy B\\*\\*")
+```
+
+`r length(pubs)` published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`.
+
+Number of papers as 1st author: `r positions$first_author`, 2nd author: `r positions$second_author`, last author: `r positions$last_author`.
 
 *Selected publications:*
 
 **Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502) --- [HAL](https://hal.science/BOREA/hal-04311267v1)
 
-**Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
-
-Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I, Teletchea F, **Leroy B**.  2022. Freshwater fish invasions: A comprehensive review. *Annual Review of Ecology, Evolution and Systematics*  [10.1146/annurev-ecolsys-032522-015551](https://doi.org/10.1146/annurev-ecolsys-032522-015551) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03781186)
-
 **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C. 2022. Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* 13:1930-1937 [10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03427555)
 
 ### Software
-5 software published with 2 peer-reviewed articles, totaling 391 citations
+
+```{r include=FALSE}
+source("scripts/citation_count.R")
+library(dplyr)
+info <- available.packages(contriburl = "https://cran.rstudio.com/src/contrib")
+
+
+
+softs <- read_software("publications.md")
+
+# Split the raw text into individual entries based on blank lines
+entries <- unlist(str_split(softs, "\\n\\s*\\n"))
+
+# Apply the parsing function to each entry and combine into a data.frame
+software_list <- do.call(rbind, lapply(entries, parse_entry))
+
+software_list <- software_list %>%
+  rowwise() %>%
+  mutate(
+    # citations_software = get_google_scholar_citation(software_url),
+    citations_peer_review = fetch_semantic_scholar_citations(doi_peer_review),
+    total_citations = 
+      # citations_software + 
+      citations_peer_review
+  ) %>%
+  ungroup()
+
+total_dois <- sum(sapply(software_list$doi_peer_review, function(x) {
+  if (is.na(x) || x == "") 0 else length(unlist(strsplit(x, ";")))
+}))
+
+```
+
+`r nrow(software_list)` software published with 
+`r total_dois` peer-reviewed articles, totaling over 
+`r sum(software_list$total_citations, na.rm = TRUE)` citations.
 
 ## Expertise
 *I work at the science-policy interface, internationally (e.g., **Lead Author** for the European and Central Asia report by the IPBES) or specifically in France (e.g., Terres Australes & Antarctiques Françaises, DREAL Corse).*
@@ -95,11 +134,7 @@ Participatives : biOindication à l’InteRface sciences Société. 250 000€.
 ## Teaching
 
 Teaching 70-100h per year for masters and doctoral schools at the Muséum and
-Ecole Normale Supérieure. Responsibility of two courses:
-
-- \- **Biogeography and Macroecology**, with Maud Mouchet, master's degree course, 10 days.
-
-- \- **Species distribution models and climate change**, doctoral training school, 5 days.
+Ecole Normale Supérieure. 
 
 ## Supervision & evaluation
 
@@ -107,7 +142,7 @@ Ecole Normale Supérieure. Responsibility of two courses:
 
 Member of 12 PhD committees
 
-Examiner for 3 PhD defenses
+Examiner for 5 PhD defenses
 
 ## Professional service
 
@@ -128,13 +163,10 @@ Referee for over 25 journals
 `2017-2019`
 **Leader**, *group Biodiversity & Macroecology, Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris, France.
 
-## Recent outreach events
+## Outreach
 
-`2023` **Press** Biological invasions of freshwater fishes and the Anthropocene.
-AFP, The Conversation, L'info durable, Presse Agence, France Inter, France Culture (x2), Geo, H20, The Cleveland American, East Africa News Post, Reporterre, Le Figaro, Natura Science. 
-
-`2021`
-**Press** Biological invasions, climate change and modelling (Science News, Polytechnique Insights, France TV info, Radio la 1ère//Planète Outre-Mer, Science & Vie)
+Numerous outreach/press events around global change impacts on biodiversity
+(AFP, The Conversation, France Inter, France Culture, etc.)
 
 
 ```{r echo=FALSE, results="hide", message="hide", warning=FALSE} 

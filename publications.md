@@ -19,7 +19,7 @@ layout: cv
 
 `2025`
 
-70\. Denelle P, **Leroy B**, Lenormand M. In Press. Bioregionalization analyses with the bioregion R-package. *Methods in Ecology & Evolution* [doi]() --- [hal]() --- [arXiv preprint](https://arxiv.org/abs/2404.15300)
+70\. Denelle P, **Leroy B**, Lenormand M. (2025). Bioregionalization analyses with the bioregion R package. *Methods in Ecology and Evolution* 16:496-506 [doi](https://doi.org/10.1111/2041-210X.14496) --- [HAL](https://hal.science/hal-04966616) (Co-last author along with Maxime Lenormand)
 
 69\. Manfrini E, Courchamp F, **Leroy B**. (2025). Mitigating the role of aquaculture in crustacean invasions. *Reviews in Aquaculture* 17:e12952 [doi](https://doi.org/10.1111/raq.12952) --- [HAL](https://hal.science/hal-04799677v1)
 
@@ -201,32 +201,45 @@ layout: cv
 
 ### Software
 
-5\. Lenormand M, **Leroy B**, Denelle P. 2023-2024. bioregion: Comparison of
-Bioregionalisation Methods. Current version: 1.1.1-1
+<!-- start_soft_list -->
+
+5\. Lenormand M, **Leroy B**, Denelle P. 2023-2025. bioregion: Comparison of
+Bioregionalisation Methods. Current version: 1.1.1-1. 
+Published on the Comprehensive R Archive Network
 <https://cran.r-project.org/package=bioregion> Open-source code
-repository available here: <https://github.com/bioRgeo/bioregion>
+repository available here: <https://github.com/bioRgeo/bioregion> Peer-reviewed
+study <https://doi.org/10.1111/2041-210X.14496>
 
-4\. **Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2024. **invacost**,
-package for the R software. Analyse Biological Invasion Costs with the
-‘InvaCost’ Database. Published on the Comprehensive R Archive Network.
-Current version: 1.1-6. <https://cran.r-project.org/package=invacost>
+4\. **Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2025. **invacost**:
+Analyse Biological Invasion Costs with the
+‘InvaCost’ Database. 
+Current version: 1.1-6. Published on the Comprehensive R Archive Network.
+<https://cran.r-project.org/package=invacost>
 Open-source code repository available here:
-<https://github.com/Farewe/invacost>
+<https://github.com/Farewe/invacost> Peer-reviewed
+study <https://doi.org/10.1111/2041-210X.13929>
 
-3\. **Leroy B.** 2019-2024. **biogeonetworks**, package for the R software.
-Biogeographical networks in R. Current (and last) version : 0.1.2.
-<https://github.com/Farewe/biogeonetworks> This package has been
-replaced by bioregion
+3\. **Leroy B.** 2019-2024. **biogeonetworks**: Biogeographical Network
+Manipulation and Analysis. Current version: 0.1.2.
+<https://github.com/Farewe/biogeonetworks> This package is discontinued 
+because it has been replaced by **bioregion** 
 
-2\. **Leroy B.** 2014-2024. **virtualspecies**, package for the R software.
-A package to generate virtual species distribution for improvements of
-modeling techniques. Published on the Comprehensive R Archive Network.
-Current version : 1.6 <http://borisleroy.com/virtualspecies>
+2\. **Leroy B.** 2014-2025. **virtualspecies**: Generation of Virtual Species 
+Distributions. 
+Current version : 1.6. 
+Published on the Comprehensive R Archive Network
+<http://borisleroy.com/virtualspecies> Peer-reviewed
+study <https://doi.org/10.1111/ecog.01388>
 
-1\. **Leroy B.** 2012-2024. **Rarity**, package for the R software. A
-package to calculate rarity indices for species and assemblages of
-species. Published on the Comprehensive R Archive Network. Current
-version : 1.3-8. <https://cran.r-project.org/package=Rarity>
+1\. **Leroy B.** 2012-2025. **Rarity**: A package to calculate rarity indices 
+for species and assemblages of species for conservation studies. Current
+version : 1.3-8.
+Published on the Comprehensive R Archive Network. 
+<https://cran.r-project.org/package=Rarity> Peer-reviewed
+studies <https://doi.org/10.1111/j.1752-4598.2011.00148.x> and
+<https://doi.org/10.1111/ddi.12040>
+
+<!-- end_soft_list -->
 
 ### Expertise reports
 
