@@ -86,9 +86,9 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-70 published peer-reviewed articles. h-index: 37; i10-index: 57.
+70 published peer-reviewed articles. h-index: 39; i10-index: 59.
 
-Number of papers as 1st author: 13, 2nd author: 14, last author: 11.
+Number of papers as 1st author: 13, 2nd author: 14, last author: 12.
 
 *Selected publications:*
 
@@ -131,7 +131,7 @@ rarity assessments of invertebrate taxa. Diversity and Distributions
 ### Software
 
 Lenormand M, **Leroy B**, Denelle P. 2023-2025. bioregion: Comparison of
-Bioregionalisation Methods. Current version: 1.1.1-1
+Bioregionalisation Methods. Current version: 1.2.0
 <https://cran.r-project.org/package=bioregion> Open-source code
 repository available here: <https://github.com/bioRgeo/bioregion>
 
@@ -571,4 +571,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Jan 2025<br/><br/>
+<br/>Last updated: Mar 2025<br/><br/>

@@ -1,10 +1,10 @@
 ---
 title: "Boris Leroy's CV"
 output:
+  pdf_document: default
   md_document:
     variant: gfm
     preserve_yaml: true
-  pdf_document: default
   word_document: default
 layout: cv
 ---

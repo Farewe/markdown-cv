@@ -107,6 +107,9 @@ count_author_positions <- function(publications, name) {
     }
   }
   
+  # Add one paper as a co-last author (bioregion in MEE)
+  last_author_count <- last_author_count + 1
+  
   return(list(first_author = first_author_count, 
               second_author = second_author_count,
               last_author = last_author_count))
