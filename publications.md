@@ -19,6 +19,12 @@ layout: cv
 
 `2025`
 
+73\. Carneiro L, **Leroy B**, Capinha C, Bradshaw CJA, Bertolino S, Catford JA, Camacho-Cervantes M, Bojko J, Klippel G, Kumschick S,  Pinchera-Doñoso D, Tonkin JD, Fath BD, South J, Manfrini E, Dallas T, Courchamp F. In Press. Typology of the ecological impacts of biological invasions. *Trends in Ecology & Evolution* [doi] --- [HAL]
+
+72\. Soto I, Courtois P, Pili A, Tordoni E, Manfrini E, Angulo E, Bellard C, Briski E, Buřič M, Cuthbert RN, Kouba A, Kourantidou M, Macêdo RL, Leroy B, Haubrock PJ, Courchamp F, Leung B. In Press. Using species ranges and macroeconomic data to fill the gap in costs of biological invasions. *Nature Communications* [doi] --- [HAL]
+
+71\. Sérandour B, **Leroy B**, Blenckner T, Mittermayer F, Clemmesen C, Cruz J, Nowaczyk A, Winder M. (2025). Assessing the invasion risk of the cnidaria Blackfordia virginica Mayer, 1910: a threat to the Baltic Sea ecosystem?. *Biological Invasions* 27: [doi](https://doi.org/10.1007/s10530-025-03565-w) --- [HAL](https://hal.science/hal-05002621)
+
 70\. Denelle P, **Leroy B**, Lenormand M. (2025). Bioregionalization analyses with the bioregion R package. *Methods in Ecology and Evolution* 16:496-506 [doi](https://doi.org/10.1111/2041-210X.14496) --- [HAL](https://hal.science/hal-04966616) (Co-last author along with Maxime Lenormand)
 
 69\. Manfrini E, Courchamp F, **Leroy B**. (2025). Mitigating the role of aquaculture in crustacean invasions. *Reviews in Aquaculture* 17:e12952 [doi](https://doi.org/10.1111/raq.12952) --- [HAL](https://hal.science/hal-04799677v1)

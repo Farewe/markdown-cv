@@ -1,10 +1,10 @@
 ---
 title: "Boris Leroy's CV"
 output:
-  pdf_document: default
   md_document:
     variant: gfm
     preserve_yaml: true
+  pdf_document: default
   word_document: default
 layout: cv
 ---
@@ -19,8 +19,6 @@ Co-leader of group AQUATREND "Quantitative analysis of aquatic biodiversity tren
 response to global changes"<br/>
 43 rue Cuvier, CP 26<br/>
 75005 Paris, France<br/>
-
-leroy.boris@@gmail.com
 
 
 
