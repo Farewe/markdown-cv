@@ -67,7 +67,12 @@ Number of papers as 1st author: `r positions$first_author`, 2nd author: `r posit
 
 *Selected publications:*
 
+Carneiro L, **Leroy B**, Capinha C, Bradshaw CJA, Bertolino S, Catford JA, Camacho-Cervantes M, Bojko J, Klippel G, Kumschick S,  Pinchera-Doñoso D, Tonkin JD, Fath BD, South J, Manfrini E, Dallas T, Courchamp F. **In Press.** Typology of the ecological impacts of biological invasions. *Trends in Ecology & Evolution* 
+
 **Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502) --- [HAL](https://hal.science/BOREA/hal-04311267v1)
+
+Ramiro-Sánchez B, Martin A, **Leroy B**. 2023. The epitome of data paucity: Deep-sea habitats of the Southern Indian Ocean. *Biological Conservation* 283:110096 [doi](https://doi.org/10.1016/j.biocon.2023.110096) --- [HAL](https://hal.science/hal-04554845)
+
 
 **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C. 2022. Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* 13:1930-1937 [10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03427555)
 
@@ -110,18 +115,42 @@ total_dois <- sum(sapply(software_list$doi_peer_review, function(x) {
 `r sum(software_list$total_citations, na.rm = TRUE)` citations.
 
 ## Expertise
-*I work at the science-policy interface, internationally (e.g., **Lead Author** for the European and Central Asia report by the IPBES) or specifically in France (e.g., Terres Australes & Antarctiques Françaises, DREAL Corse).*
+I work at the science-policy interface as part of my expertise mission from the MNHN.
 
-19 Expertise reports published in total. Last report:
+`2024` **Consultant**, *DREAL Corse*, Predictive mapping of species subject to national action plans
+
+`2020-2023` **Consultant**, *Southern Indian Ocean Fisheries Agreement*, Vulnerable Marine Ecosystems 
+
+`2021` **Consultant**, *Marine protected areas in the French Antarctic and Southern areas*
+
+`2020-2023`
+**Contributing Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*, Invasive Alien Species Assessment
+
+`2015-2018`
+**Lead Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*, Europe and Central Asia Assessment
+
+
+**`r length(exp)`** expertise reports published. Selected recent expertise reports:
+
+`2024`
 
 **Leroy B**. (2024). Cartographie prédictive des habitats des groupes d’espèces ciblées
 par les Plans Nationaux d’Actions en Corse. Rapport pour la DREAL de Corse.
-Zenodo. 110 pp. https://doi.org/10.5281/zenodo.11067678 https://borisleroy.com/sdms-pna-corse
+Zenodo. 110 pp. https://doi.org/10.5281/zenodo.11067678
 
+`2023`
+
+Ramiro-Sánchez B., Devillers R. and **Leroy B**. (2023). Systematic conservation planning in the SIOFA area (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 56pp. [Note: report is confidential]
+
+Ramiro-Sanchez B. and **Leroy B**. (2023). Identifying significant adverse impacts on vulnerable marine ecosystems: a review of measures and applicability to SIOFA (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 12pp. [Note: report is confidential]
+
+`2022`
+
+Ramiro-Sánchez B, **Leroy B**. 2022. *SIOFA bioregionalisation and VME project - Final report* Southern Indian Ocean Fisheries Agreement consultancy report. 111 pp. [link](https://siofa.org/sites/default/files/files/VMEMapping_FullReport.pdf)
 
 ## Research funding
 
-8 projects funded as PI or co-PI totaling around 1M€. Current projects:
+8 projects funded as PI or co-PI totaling around 1M€. Recent projects:
 
 `2023-2026` **3-year research project**, PPR Océan & Climat, Developing bioindicators for rocky foreshores: citizen sciences, a mechanism for interaction between science and society. Co-PI with Eric Feunteun & Florian Charvolin. 110 000€
 
@@ -129,10 +158,29 @@ Zenodo. 110 pp. https://doi.org/10.5281/zenodo.11067678 https://borisleroy.com/s
 ESPOIRS - Etude de la réponse des estrans aux changements globaux par les Sciences
 Participatives : biOindication à l’InteRface sciences Société. 250 000€. 
 
+`2021-2023` **1.5-year research project**, *Southern Indian Ocean
+Fisheries Agreement*, Indian Ocean, 60 000€. <br/> Bioregionalisation and 
+Management of Vulnerable Marine Ecosystems in the Indian
+Ocean.
+
+`2021` **Expertise project**, *Planification de l'extension de la réserve Naturelle de Saint Paul et Amsterdam*, Terres Australes et Antarctiques Françaises, ~20k€.
+
+`2020-2022`
+**2-year research project**, *Southern Indian Ocean Fisheries Agreement*, Indian Ocean, 96 000€. <br/> 
+Mapping the biogeography of Vulnerable Marine Ecosystems in the Indian Ocean.
+
+`2017–2019`
+**2-year research project Labex**, *Muséum National d'Histoire Naturelle*, France, 100 000€. <br/>
+Co-PI with Sarah Samadi & Maud Mouchet.<br/>
+Valuing natural history collections and naturalist expeditions for the conservation and management of deep sea habitats: the Tropical Deep Sea Benthos program.
+
+`2017–2019`
+**2-year research project Labex**, *Muséum National d'Histoire Naturelle*, France, 100 000€.<br/> Co-PI with Sandrine Pavoine.<br/>
+New indicators for biodiversity conservation based on phylogenetic originality and extinction risks : HEDGE and LEDGE species.
+
 ## Teaching
 
-Teaching 70-100h per year for masters and doctoral schools at the Muséum and
-Ecole Normale Supérieure. 
+Teaching 70-100h per year for masters and doctoral schools at the Muséum, Sorbonne Université, Université de Paris Saclay, and Ecole Normale Supérieure. 
 
 ## Supervision & evaluation
 

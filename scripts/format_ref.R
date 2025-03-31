@@ -68,7 +68,7 @@ format_reference_from_doi <- function(doi) {
   # Marino C, **Leroy B**, Latombe G, Bellard C. (2024). Exposure and Sensitivity ...
   # *Global Change Biology* 30:e17607 [doi](https://doi.org/10.1111/gcb.17607) --- [HAL]()
   
-  ref <- sprintf("%s. (%s). %s. *%s* %s:%s [doi](https://doi.org/%s) --- %s", 
+  ref <- sprintf("%s. %s. %s. *%s* %s:%s [doi](https://doi.org/%s) --- %s", 
                  authors_str, year, title, journal, volume, page, doi, hal_part)
   
   return(ref)

@@ -21,7 +21,7 @@ layout: cv
 
 73\. Carneiro L, **Leroy B**, Capinha C, Bradshaw CJA, Bertolino S, Catford JA, Camacho-Cervantes M, Bojko J, Klippel G, Kumschick S,  Pinchera-Doñoso D, Tonkin JD, Fath BD, South J, Manfrini E, Dallas T, Courchamp F. In Press. Typology of the ecological impacts of biological invasions. *Trends in Ecology & Evolution* [doi] --- [HAL]
 
-72\. Soto I, Courtois P, Pili A, Tordoni E, Manfrini E, Angulo E, Bellard C, Briski E, Buřič M, Cuthbert RN, Kouba A, Kourantidou M, Macêdo RL, Leroy B, Haubrock PJ, Courchamp F, Leung B. In Press. Using species ranges and macroeconomic data to fill the gap in costs of biological invasions. *Nature Communications* [doi] --- [HAL]
+72\. Soto I, Courtois P, Pili A, Tordoni E, Manfrini E, Angulo E, Bellard C, Briski E, Buřič M, Cuthbert RN, Kouba A, Kourantidou M, Macêdo RL, **Leroy B**, Haubrock PJ, Courchamp F, Leung B. In Press. Using species ranges and macroeconomic data to fill the gap in costs of biological invasions. *Nature Communications* [doi] --- [HAL]
 
 71\. Sérandour B, **Leroy B**, Blenckner T, Mittermayer F, Clemmesen C, Cruz J, Nowaczyk A, Winder M. (2025). Assessing the invasion risk of the cnidaria Blackfordia virginica Mayer, 1910: a threat to the Baltic Sea ecosystem?. *Biological Invasions* 27: [doi](https://doi.org/10.1007/s10530-025-03565-w) --- [HAL](https://hal.science/hal-05002621)
 
@@ -61,7 +61,7 @@ layout: cv
 
 56\. Le Joncour A, Mouchet M, **Leroy B**, Doyle J, Lundy M, Robert M, Kopp D. 2023. When bioregionalisation emphasises the presence of Vulnerable Marine Ecosystem indicator species in Nephrops fishing grounds: evidence in the Bay of Biscay/Irish Sea continuum. *Progress in Oceanography* 214:103032 [10.1016/j.pocean.2023.103032](https://doi.org/10.1016/j.pocean.2023.103032) --- [HAL](https://hal.science/hal-04110043)
 
-55\. Ramiro-Sánchez B, Martin A, **Leroy B**. In Press. The epitome of data paucity: deep-sea habitats of the Southern Indian Ocean. *Biological Conservation* 283:110096 [10.1016/j.biocon.2023.110096](https://doi.org/10.1016/j.biocon.2023.110096) --- [HAL](https://hal.science/hal-04109995)
+55\. Ramiro-Sánchez B, Martin A, **Leroy B**. 2023. The epitome of data paucity: Deep-sea habitats of the Southern Indian Ocean. *Biological Conservation* 283:110096 [doi](https://doi.org/10.1016/j.biocon.2023.110096) --- [HAL](https://hal.science/hal-04554845)
 
 54\. **Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 
