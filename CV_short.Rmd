@@ -215,7 +215,7 @@ Numerous outreach/press events around global change impacts on biodiversity
 (AFP, The Conversation, France Inter, France Culture, etc.)
 
 
-```{r echo=FALSE, results="hide", message="hide", warning=FALSE} 
+```{r echo=FALSE, results="hide", message=FALSE, warning=FALSE} 
 Sys.setlocale("LC_ALL","English")
 ```
 <br/>Last updated: `r zoo::Sys.yearmon()`<br/><br/>

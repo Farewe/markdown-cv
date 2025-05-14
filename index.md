@@ -18,8 +18,6 @@ AQUATREND “Quantitative analysis of aquatic biodiversity trends in
 response to global changes”<br/> 43 rue Cuvier, CP 26<br/> 75005 Paris,
 France<br/>
 
-leroy.boris@@gmail.com
-
 [borisleroy.com](https://borisleroy.com) - [lab
 page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
 [GitHub: Farewe](https://github.com/farewe) - [ORCID:
@@ -86,9 +84,9 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-70 published peer-reviewed articles. h-index: 39; i10-index: 59.
+74 published peer-reviewed articles. h-index: 41; i10-index: 64.
 
-Number of papers as 1st author: 13, 2nd author: 14, last author: 12.
+Number of papers as 1st author: 13, 2nd author: 16, last author: 13.
 
 *Selected publications:*
 
@@ -571,4 +569,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Mar 2025<br/><br/>
+<br/>Last updated: May 2025<br/><br/>

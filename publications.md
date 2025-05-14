@@ -13,13 +13,15 @@ layout: cv
 
 <!-- formatter les refs avec source("scripts/format_ref.R")-->
 
-<!-- format_reference_from_doi("10.1186/s13717-024-00495-8") -->
+<!-- format_reference_from_doi("https://doi.org/10.1016/j.tree.2025.03.010") -->
 
 <!-- start_pub_list -->
 
 `2025`
 
-73\. Carneiro L, **Leroy B**, Capinha C, Bradshaw CJA, Bertolino S, Catford JA, Camacho-Cervantes M, Bojko J, Klippel G, Kumschick S,  Pinchera-Doñoso D, Tonkin JD, Fath BD, South J, Manfrini E, Dallas T, Courchamp F. In Press. Typology of the ecological impacts of biological invasions. *Trends in Ecology & Evolution* [doi] --- [HAL]
+74\. Rintz CL, Koubbi P, Ramiro-Sánchez B, Azarian C, Caccavo J, Cotté C, Godet C, Hulley P, Le Goff R, Leprieur F, Robuchon M, Serandour B, **Leroy B**. In Press. Biogeographical regions and climate change: lanternfishes shed light on the role of climatic barriers in the Southern Ocean. *Global Change Biology*
+
+73\. Carneiro L, **Leroy B**, Capinha C, Bradshaw CJ, Bertolino S, Catford JA, Camacho-Cervantes M, Bojko J, Klippel G, Kumschick S, Pincheira-Donoso D, Tonkin JD, Fath BD, South J, Manfrini E, Dallas T, Courchamp F. 2025. Typology of the ecological impacts of biological invasions. *Trends in Ecology &amp; Evolution* : [doi](https://doi.org/10.1016/j.tree.2025.03.010) --- [HAL](https://hal.science/hal-04851347)
 
 72\. Soto I, Courtois P, Pili A, Tordoni E, Manfrini E, Angulo E, Bellard C, Briski E, Buřič M, Cuthbert RN, Kouba A, Kourantidou M, Macêdo RL, **Leroy B**, Haubrock PJ, Courchamp F, Leung B. In Press. Using species ranges and macroeconomic data to fill the gap in costs of biological invasions. *Nature Communications* [doi] --- [HAL]
 
