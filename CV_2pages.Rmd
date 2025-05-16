@@ -67,9 +67,24 @@ id <- "7HzlVT4AAAAJ"
 gs <- get_profile(id)
 
 source("scripts/count_author_position.R")
+source("scripts/pubs_per_year.R")
 pubs <- read_publications("publications.md")
 exp <- read_expertise("publications.md")
-positions <- count_author_positions(pubs, "\\*\\*Leroy B\\*\\*")
+positions <- count_author_positions(pubs, "\\*\\*Leroy B\\*\\*") 
+
+pubs_per_year <- pub_per_year(pubs)
+
+library(ggplot2)
+p <- ggplot(pubs_per_year, aes(x = year, y = Freq)) +
+  geom_col(width = 0.6) +
+  theme_minimal(base_size = 6) +
+  labs(x = NULL, y = NULL) +
+  theme(
+    axis.text.y = element_blank(),
+    axis.ticks.y = element_blank(),
+    panel.grid = element_blank()
+  )
+ggsave("figures/pubs_per_year.pdf", plot = p, width = 4, height = 0.8)
 ```
 
 
@@ -108,7 +123,6 @@ positions <- count_author_positions(pubs, "\\*\\*Leroy B\\*\\*")
 ```
 
 ### \emoji{📰} Journal articles
-
 ```{=latex}
 \begin{multicols}{2}
 \emoji{📄} `r length(pubs)` peer-reviewed articles  
