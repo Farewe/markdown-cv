@@ -1,0 +1,261 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+header-includes:
+  - \usepackage[margin=1in]{geometry}
+  - \setlength{\parskip}{3pt}
+  - \setmainfont{texgyretermes-regular.otf}[Path=fonts/, BoldFont=texgyretermes-bold.otf, ItalicFont=texgyretermes-italic.otf, BoldItalicFont=texgyretermes-bolditalic.otf]
+  - \newfontfamily{\emojiFont}{Segoe UI Emoji}
+  - \newcommand{\emoji}[1]{{\emojiFont#1}}
+  - \usepackage{multicol}
+  - \usepackage{titlesec}
+  - |
+    \titleformat{\section}
+      {\normalfont\Large\bfseries\color{black}}
+      {\thesection\quad}
+      {0pt}
+      {\emojiFont}
+  - |
+    \titlespacing*{\section}
+      {0pt}{12pt plus 2pt minus 2pt}{6pt plus 1pt minus 1pt}
+  - |
+    \titleformat{\subsection}
+      {\normalfont\large\bfseries\color{black}}
+      {}
+      {0pt}
+      {\emojiFont}
+  - |
+    \titlespacing*{\subsection}
+      {0pt}{10pt plus 1pt minus 1pt}{4pt plus 1pt minus 1pt}    
+      
+  - \usepackage[most]{tcolorbox}
+  - \tcbset{colback=gray!10, colframe=white, arc=0pt, boxrule=0pt, left=4pt, right=4pt, top=3pt, bottom=3pt}
+  - |
+    \newtcolorbox{cvsection}[1]{
+      width=\textwidth,
+      fontupper=\bfseries\Large,
+      before skip=12pt,
+      after skip=4pt,
+      sharp corners,
+      enhanced,
+      box align=base,
+      overlay unbroken and first={
+        \node[anchor=west, font=\emojiFont] at ([xshift=4pt]frame.west) {#1};
+      }
+    }
+  
+layout: cv
+---
+
+
+# Boris Leroy
+Maitre de Conférences, Muséum National d'Histoire Naturelle (MNHN)
+
+Co-leader, group AQUATREND
+
+\emoji{📍} MNHN — Lab. Biology of Aquatic Organisms and Ecosystems  
+\emoji{📫} 43 rue Cuvier, CP 26 — 75005 Paris, France  
+\emoji{🌐} [borisleroy.com](https://borisleroy.com) • [Lab page](https://borea.mnhn.fr/fr/users/boris-leroy)  
+\emoji{🔗} [GitHub: Farewe](https://github.com/farewe) • [ORCID](https://orcid.org/0000-0002-7686-4302) • [RG: Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) • [@BLeroyEcology](https://twitter.com/BLeroyEcology)
+
+
+```{r echo=FALSE, results="hide", message=FALSE, warning=FALSE}
+library(scholar)
+id <- "7HzlVT4AAAAJ"
+
+gs <- get_profile(id)
+
+source("scripts/count_author_position.R")
+pubs <- read_publications("publications.md")
+exp <- read_expertise("publications.md")
+positions <- count_author_positions(pubs, "\\*\\*Leroy B\\*\\*")
+```
+
+
+*My research focuses on global biogeographical patterns of aquatic biodiversity (marine and freshwater) and their underlying direct and indirect drivers. I investigate with various macroecological and biogeographical methods how global changes alter the natural distribution of biodiversity. My main research topics are: biogeography, macroecology, invasion biology; with a special emphasis on the development of methods and facilitating access to these methods with open-source software. *
+
+```{=latex}
+\begin{cvsection}{\emoji{✨} Highlights}
+\end{cvsection}
+```
+
+- \emoji{🧪} 70+ peer-reviewed articles, including *Nature*, *Science Advances* and *Trends in Ecology & Evolution*
+- \emoji{💼} PI/co-PI on 8 funded projects (~1M€)
+- \emoji{🧰} Developer of 5 open-source R packages, 350+ citations
+- \emoji{🌍} Contributor to IPBES assessments on global biodiversity
+
+```{=latex}
+\begin{cvsection}{\emoji{🎓}  Education \& experience}
+\end{cvsection}
+```
+
+- `2014-present`
+**Maître de conférences (lecturer)**, *Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris
+
+- `2014`
+**Post-doctoral fellow**, *UMR 8079 Ecology Systematics & Evolution, University of Paris South XI*, Orsay
+
+- `2013`
+**Post-doctoral fellow**, *Lab. Biodiversity & Territory Management, University of Rennes 1*, Rennes
+
+- `2012`
+**Ph.D., Life Sciences**, *Muséum national d'histoire naturelle/Université de Rennes 1*, Rennes
+
+```{=latex}
+\begin{cvsection}{\emoji{📚} Publications}
+\end{cvsection}
+```
+
+### \emoji{📰} Journal articles
+
+```{=latex}
+\begin{multicols}{2}
+\emoji{📄} `r length(pubs)` peer-reviewed articles  
+
+\emoji{📊} h-index: \textbf{`r gs$h_index`}, i10-index: \textbf{`r gs$i10_index`}  
+
+\emoji{👤} First author: \textbf{`r positions$first_author`}, Last author: \textbf{`r positions$last_author`}  
+
+\emoji{🔗} \href{https://farewe.github.io/markdown-cv/publications.html}{Full list online}
+\end{multicols}
+```
+
+
+*Selected publications:*
+
+- Rintz CL, Koubbi P, Ramiro-Sánchez B, Azarian C, Caccavo J, Cotté C, Godet C, Hulley P, Le Goff R, Leprieur F, Robuchon M, Serandour B, **Leroy B**. **In Press**. Biogeographical regions and climate change: lanternfishes shed light on the role of climatic barriers in the Southern Ocean. *Global Change Biology*
+
+
+- Carneiro L, **Leroy B**, Capinha C, Bradshaw CJA, Bertolino S, Catford JA, Camacho-Cervantes M, Bojko J, Klippel G, Kumschick S,  Pinchera-Doñoso D, Tonkin JD, Fath BD, South J, Manfrini E, Dallas T, Courchamp F. **In Press.** Typology of the ecological impacts of biological invasions. *Trends in Ecology & Evolution* 
+
+- **Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502) --- [HAL](https://hal.science/BOREA/hal-04311267v1)
+
+### 	\emoji{💻} Software
+
+```{r include=FALSE}
+source("scripts/citation_count.R")
+library(dplyr)
+info <- available.packages(contriburl = "https://cran.rstudio.com/src/contrib")
+
+
+
+softs <- read_software("publications.md")
+
+# Split the raw text into individual entries based on blank lines
+entries <- unlist(str_split(softs, "\\n\\s*\\n"))
+
+# Apply the parsing function to each entry and combine into a data.frame
+software_list <- do.call(rbind, lapply(entries, parse_entry))
+
+software_list <- software_list %>%
+  rowwise() %>%
+  mutate(
+    # citations_software = get_google_scholar_citation(software_url),
+    citations_peer_review = fetch_semantic_scholar_citations(doi_peer_review),
+    total_citations = 
+      # citations_software + 
+      citations_peer_review
+  ) %>%
+  ungroup()
+
+total_dois <- sum(sapply(software_list$doi_peer_review, function(x) {
+  if (is.na(x) || x == "") 0 else length(unlist(strsplit(x, ";")))
+}))
+
+```
+
+`r nrow(software_list)` software published with 
+`r total_dois` peer-reviewed articles, totaling over 
+`r sum(software_list$total_citations, na.rm = TRUE)` citations.
+
+```{=latex}
+\begin{cvsection}{\emoji{🧠} Expertise}
+\end{cvsection}
+```
+I work at the science-policy interface as part of my expertise mission from the MNHN.
+
+- `2024` **Consultant**, *DREAL Corse*, Predictive mapping of species subject to national action plans
+
+- `2020-2023` **Consultant**, *Southern Indian Ocean Fisheries Agreement*, Vulnerable Marine Ecosystems 
+
+- `2021` **Consultant**, *Marine protected areas in the French Antarctic and Southern areas*
+
+- `2020-2023`
+**Contributing Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*, Invasive Alien Species Assessment
+
+- `2015-2018`
+**Lead Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*, Europe and Central Asia Assessment
+
+
+**`r length(exp)`** expertise reports published. 
+```{=latex}
+\begin{cvsection}{\emoji{💰} Research funding}
+\end{cvsection}
+```
+
+8 projects funded as PI or co-PI totaling around 1M€. Ongoing projects:
+
+
+- **2023-2026** *PPR Océan & Climat*, Developing bioindicators for rocky foreshores: citizen sciences, a mechanism for interaction between science and society. Co-PI with Eric Feunteun & Florian Charvolin. 110 000€
+
+- **2023-2025** *Agence Nationale pour la Recherche*,
+ESPOIRS - Etude de la réponse des estrans aux changements globaux par les Sciences
+Participatives : biOindication à l’InteRface sciences Société. PI. 250 000€. 
+
+
+```{=latex}
+\begin{cvsection}{\emoji{🏫} Teaching}
+\end{cvsection}
+```
+ 	
+
+Teaching 70-100h per year for masters and doctoral schools at the Muséum, Sorbonne Université, Université de Paris Saclay, and Ecole Normale Supérieure. 
+
+```{=latex}
+\begin{cvsection}{\emoji{🧑} Supervision \& evaluation}
+\end{cvsection}
+```
+
+- 6 postdoctoral researchers, 3 PhD students, 2 engineers and 15 master students supervised
+
+- Member of 12 PhD committees
+
+- Examiner for 5 PhD defenses
+
+```{=latex}
+\begin{cvsection}{\emoji{📝} Professional service}
+\end{cvsection}
+```
+
+Referee for over 25 journals
+
+- `2024-present`
+**Senior Editor**. *Diversity & Distributions*
+
+- `2019-2024`
+**Associate Editor**. *Diversity & Distributions*
+
+```{=latex}
+\begin{cvsection}{\emoji{🏛️} Academic service}
+\end{cvsection}
+```
+
+- `2025-onwards`
+**Co-leader**, *group AQUATREND, __Quantitative analysis of trends in biodiversity in response to global change__, Lab. Biology of Aquatic Organisms & Ecosystems, MNHN*.
+
+- `2017-2019`
+**Leader**, *group Biodiversity & Macroecology, Lab. Biology of Aquatic Organisms & Ecosystems, MNHN*.
+```{=latex}
+\begin{cvsection}{\emoji{📣} Outreach}
+\end{cvsection}
+```
+
+Numerous outreach/press events around global change impacts on biodiversity
+(AFP, The Conversation, France Inter, France Culture, etc.)
+
+
+```{r echo=FALSE, results="hide", message=FALSE, warning=FALSE} 
+Sys.setlocale("LC_ALL","English")
+```
+Last updated: `r zoo::Sys.yearmon()`
