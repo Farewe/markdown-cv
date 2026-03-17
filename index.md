@@ -447,6 +447,8 @@ Orsay, France
 
 ### PhD examinations
 
+`2025` **Morgane Amelot**, Variabilité passée, présente et future des communautés marines face au changement climatique : le cas de la Mer Celtique, *Muséum National d'Histoire Naturelle*
+
 `2024` **Emma Chollet Ramampiandra**, From black boxes to ecological
 insights: Exploring the use of machine learning in species distribution
 modelling, *ETH Zurich, Zurich, Switzerland*

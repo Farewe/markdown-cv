@@ -1,1 +1,3 @@
 markdown:   kramdown
+exclude:
+	- CV_2pages.Rmd
