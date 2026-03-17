@@ -5,22 +5,22 @@ format_reference_from_doi <- function(doi) {
     # Remove the "http(s)://(dx.)?doi.org/" part
     doi <- sub("^https?://(dx\\.)?doi.org/", "", doi)
   }
-  
-  
+
+
   # Fetch metadata in citeproc-json format
   metadata <- tryCatch({
     rcrossref::cr_cn(dois = doi, format = "citeproc-json")
   }, error = function(e) {
     stop("Failed to retrieve data for the given DOI.")
   })
-  
+
   # Query HAL for a matching record
   hal_url <- ""
   hal_api_url <- paste0("https://api.archives-ouvertes.fr/search/?q=", doi, "&fl=halId_s")
   res <- tryCatch({
     httr::GET(hal_api_url)
   }, error = function(e) NULL)
-  
+
   if (!is.null(res) && httr::status_code(res) == 200) {
     js <- httr::content(res, as = "parsed", type = "application/json")
     if (!is.null(js$response$docs) && length(js$response$docs) > 0) {
@@ -30,7 +30,7 @@ format_reference_from_doi <- function(doi) {
       }
     }
   }
-  
+
   # Extract fields
   authors <- metadata$author
   # Format authors as "LastName Initials"
@@ -48,29 +48,60 @@ format_reference_from_doi <- function(doi) {
     }
     author_str
   })
-  
+
   authors_str <- paste(authors_formatted, collapse = ", ")
-  
+
   # Year
   # issued$date-parts is typically a list of lists with year, month, day
   year <- metadata$issued$`date-parts`[[1]][1]
-  
+
   title <- metadata$title
   journal <- metadata$`container-title`
+  # container-title can be a string, an empty list, or NULL depending on source
+  if (is.list(journal)) journal <- if (length(journal) > 0) journal[[1]] else NULL
+  # For preprints (bioRxiv, medRxiv), container-title may be missing;
+  # fall back to the institution name if available.
+  if (is.null(journal) || !nzchar(journal)) {
+    journal <- if (is.data.frame(metadata$institution) && nrow(metadata$institution) > 0) {
+      metadata$institution$name[1]
+    } else if (is.list(metadata$institution) && length(metadata$institution) > 0) {
+      metadata$institution[[1]]$name
+    } else {
+      ""
+    }
+  }
   volume <- if (!is.null(metadata$volume)) metadata$volume else ""
   page   <- if (!is.null(metadata$page)) metadata$page else ""
-  
+
   # Construct the HAL link portion
   hal_part <- if (nzchar(hal_url)) paste0("[HAL](", hal_url, ")") else "[HAL]()"
-  
+
   # Construct the final reference string
   # Example format:
   # Marino C, **Leroy B**, Latombe G, Bellard C. (2024). Exposure and Sensitivity ...
   # *Global Change Biology* 30:e17607 [doi](https://doi.org/10.1111/gcb.17607) --- [HAL]()
-  
-  ref <- sprintf("%s. %s. %s. *%s* %s:%s [doi](https://doi.org/%s) --- %s", 
-                 authors_str, year, title, journal, volume, page, doi, hal_part)
-  
+
+  # Build the journal/volume/page portion, handling missing fields gracefully
+  journal_part <- if (nzchar(journal)) paste0("*", journal, "*") else ""
+  vol_page <- if (nzchar(volume) && nzchar(page)) {
+    paste0(" ", volume, ":", page)
+  } else if (nzchar(volume)) {
+    paste0(" ", volume)
+  } else if (nzchar(page)) {
+    paste0(" ", page)
+  } else {
+    ""
+  }
+  journal_full <- paste0(journal_part, vol_page)
+
+  ref <- if (nzchar(journal_full)) {
+    sprintf("%s. %s. %s. %s [doi](https://doi.org/%s) --- %s",
+            authors_str, year, title, journal_full, doi, hal_part)
+  } else {
+    sprintf("%s. %s. %s. [doi](https://doi.org/%s) --- %s",
+            authors_str, year, title, doi, hal_part)
+  }
+
   return(ref)
 }
 # Example usage:

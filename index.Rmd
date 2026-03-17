@@ -180,6 +180,8 @@ Bourgouin A, Ramiro Sánchez B, Selles J, Favreau A, Péron C, Corbari C, Bourgu
 
 ### Research funding
 
+
+
 `2023-2026` **3-year research project**, PPR Océan & Climat, Developing bioindicators for rocky foreshores: citizen sciences, a mechanism for interaction between science and society. Co-PI with Eric Feunteun & Florian Charvolin. 110 000€
 
 `2023-2025` **2-year research project**, *Agence Nationale pour la Recherche*,
@@ -190,6 +192,9 @@ Participatives : biOindication à l’InteRface sciences Société. 250 000€.
 Fisheries Agreement*, Indian Ocean, 60 000€. <br/> Bioregionalisation and 
 Management of Vulnerable Marine Ecosystems in the Indian
 Ocean.
+
+`2024` **Expertise project**, *DREAL Corse*, 34 000€ <br />
+Predictive mapping of species subject to national action plans
 
 `2021` **Expertise project**, *Planification de l'extension de la réserve Naturelle de Saint Paul et Amsterdam*, Terres Australes et Antarctiques Françaises, ~20k€.
 

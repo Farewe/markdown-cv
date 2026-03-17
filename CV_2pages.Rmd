@@ -29,6 +29,7 @@ header-includes:
     \titlespacing*{\subsection}
       {0pt}{10pt plus 1pt minus 1pt}{4pt plus 1pt minus 1pt}    
       
+  - \usepackage{eso-pic}
   - \usepackage[most]{tcolorbox}
   - \tcbset{colback=gray!10, colframe=white, arc=0pt, boxrule=0pt, left=4pt, right=4pt, top=3pt, bottom=3pt}
   - |
@@ -95,7 +96,7 @@ ggsave("figures/pubs_per_year.pdf", plot = p, width = 4, height = 0.8)
 \end{cvsection}
 ```
 
-- \emoji{🧪} 70+ peer-reviewed articles, including *Nature*, *Science Advances* and *Trends in Ecology & Evolution*
+- \emoji{🧪} 80+ peer-reviewed articles, including *Nature*, *Science Advances* and *Trends in Ecology & Evolution*
 - \emoji{💼} PI/co-PI on 8 funded projects (~1M€)
 - \emoji{🧰} Developer of 5 open-source R packages, 350+ citations
 - \emoji{🌍} Contributor to IPBES assessments on global biodiversity
@@ -106,7 +107,7 @@ ggsave("figures/pubs_per_year.pdf", plot = p, width = 4, height = 0.8)
 ```
 
 - `2014-present`
-**Maître de conférences (lecturer)**, *Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris
+**Maître de conférences (assistant professor)**, *Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris
 
 - `2014`
 **Post-doctoral fellow**, *UMR 8079 Ecology Systematics & Evolution, University of Paris South XI*, Orsay
@@ -127,7 +128,7 @@ ggsave("figures/pubs_per_year.pdf", plot = p, width = 4, height = 0.8)
 \begin{multicols}{2}
 \emoji{📄} `r length(pubs)` peer-reviewed articles  
 
-\emoji{📊} h-index: \textbf{`r gs$h_index`}, i10-index: \textbf{`r gs$i10_index`}  
+\emoji{📊} h-index: \textbf{`r gs$h_index`}, i10-index: \textbf{`r gs$i10_index`}, citations: \textbf{`r format(gs$total_cites, scientific = FALSE, big.mark = ",")`}
 
 \emoji{👤} First author: \textbf{`r positions$first_author`}, Last author: \textbf{`r positions$last_author`}  
 
@@ -138,10 +139,9 @@ ggsave("figures/pubs_per_year.pdf", plot = p, width = 4, height = 0.8)
 
 *Selected publications:*
 
-- Rintz CL, Koubbi P, Ramiro-Sánchez B, Azarian C, Caccavo J, Cotté C, Godet C, Hulley P, Le Goff R, Leprieur F, Robuchon M, Serandour B, **Leroy B**. **In Press**. Biogeographical regions and climate change: lanternfishes shed light on the role of climatic barriers in the Southern Ocean. *Global Change Biology*
+- Rintz CL, Koubbi P, Ramiro‐Sánchez B, Azarian C, Caccavo JA, Cotté C, Goberville E, Godet C, Hulley PA, Le Goff R, Leprieur F, Robuchon M, Serandour B, **Leroy B**. 2025. Biogeographical Regions and Climate Change: Lanternfishes Shed Light on the Role of Climatic Barriers in the Southern Ocean. *Global Change Biology* 31: [doi](https://doi.org/10.1111/gcb.70256) --- [HAL](https://hal.science/hal-05124982)
 
-
-- Carneiro L, **Leroy B**, Capinha C, Bradshaw CJA, Bertolino S, Catford JA, Camacho-Cervantes M, Bojko J, Klippel G, Kumschick S,  Pinchera-Doñoso D, Tonkin JD, Fath BD, South J, Manfrini E, Dallas T, Courchamp F. **In Press.** Typology of the ecological impacts of biological invasions. *Trends in Ecology & Evolution* 
+- Denelle P, **Leroy B**, Lenormand M. (2025). Bioregionalization analyses with the bioregion R package. *Methods in Ecology and Evolution* 16:496-506 [doi](https://doi.org/10.1111/2041-210X.14496) --- [HAL](https://hal.science/hal-04966616) (Co-last author along with Maxime Lenormand)
 
 - **Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. 2023. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances* [10.1126/sciadv.adi5502](https://doi.org/10.1126/sciadv.adi5502) --- [HAL](https://hal.science/BOREA/hal-04311267v1)
 
@@ -231,7 +231,7 @@ Teaching 70-100h per year for masters and doctoral schools at the Muséum, Sorbo
 \end{cvsection}
 ```
 
-- 6 postdoctoral researchers, 3 PhD students, 2 engineers and 15 master students supervised
+- 6 postdoctoral researchers, 3 PhD students, 2 engineers and 16 master students supervised
 
 - Member of 12 PhD committees
 
@@ -256,7 +256,7 @@ Referee for over 25 journals
 ```
 
 - `2025-onwards`
-**Co-leader**, *group AQUATREND, __Quantitative analysis of trends in biodiversity in response to global change__, Lab. Biology of Aquatic Organisms & Ecosystems, MNHN*.
+**Co-leader**, *group AQUATREND, __Quantitative analysis of trends in aquatic biodiversity in response to global change__, Lab. Biology of Aquatic Organisms & Ecosystems, MNHN*.
 
 - `2017-2019`
 **Leader**, *group Biodiversity & Macroecology, Lab. Biology of Aquatic Organisms & Ecosystems, MNHN*.
@@ -269,7 +269,18 @@ Numerous outreach/press events around global change impacts on biodiversity
 (AFP, The Conversation, France Inter, France Culture, etc.)
 
 
-```{r echo=FALSE, results="hide", message=FALSE, warning=FALSE} 
+```{r echo=FALSE, results="hide", message=FALSE, warning=FALSE}
 Sys.setlocale("LC_ALL","English")
 ```
 Last updated: `r zoo::Sys.yearmon()`
+
+```{=latex}
+% Toggle: set to \signtrue to show signature, \signfalse to hide
+\newif\ifsign
+\signtrue
+\ifsign
+  \AddToShipoutPictureFG*{\AtPageLowerLeft{%
+    \put(\LenToUnit{\paperwidth-3.5cm},\LenToUnit{1.8cm}){%
+      \includegraphics[height=1.2cm]{images/signature.png}}}}
+\fi
+```

@@ -9,21 +9,57 @@ layout: cv
 
 ### International peer-reviewed journals
 
-`Submitted`
+<!-- formatter les refs avec 
+source("scripts/format_ref.R")
+format_reference_from_doi("10.1002/fee.2862") 
+-->
 
-<!-- formatter les refs avec source("scripts/format_ref.R")-->
+<!-- vérifier les papiers manquants dans la liste:
+source("scripts/citation_count.R")
 
-<!-- format_reference_from_doi("https://doi.org/10.1016/j.tree.2025.03.010") -->
+results <- compare_scholar_profiles_to_publications(
+  publications_md_path         = "publications.md",
+  gs_author_id                 = "7HzlVT4AAAAJ",          # from your index.Rmd
+  semantic_scholar_author_name = "Boris Leroy"            # or use the numeric ID if you know it
+)
+
+# Access results programmatically
+results$semantic_scholar_missing   # papers in S2 with DOIs not in publications.md
+results$google_scholar_missing     # GS papers not fuzzy-matched, with DOIs looked up via S2
+-->
 
 <!-- start_pub_list -->
 
+
+
+`Preprints`
+ 
+xx\. Capinha C, Pabst R, **Leroy B**. 2025. Impacts of human-introduced species on the geography of life on Earth. *bioRxiv* [doi](https://doi.org/10.1101/2025.07.05.663167) --- [HAL]()
+
+xx\. Manfrini E, Courchamp F, Maquart P, Lamboley Q, **Leroy B**. 2025. Predicting the biological invasion risks of the most farmed insect for food and feed. *bioRxiv* [doi](https://doi.org/10.1101/2025.10.30.685499) --- [HAL]()
+
+xx\. Manfrini E, Sauvion N, Maquart P, Legal L, Blight O, Duquesne E, Hanot C, Bang A, Geslin B, Goebel F, Fournier D, Berggren Å, Javal M, Angulo E, Pincebourde S, Zakardjian M, Renault D, Le Lann C, Derocles S, **Leroy B**, Courchamp F. 2026. <i>AnthropInsect</i>: a global database of insect traits and anthropogenic associations. *bioRxiv* [doi](https://doi.org/10.64898/2026.02.05.704013) --- [HAL]()
+
+
+`2026`
+
+79\. Rintz CL, Charvolin F, Hubert A, Feunteun É, **Leroy B**. 2025. Opening the black box of an ongoing quantification: building participatory indicators of foreshore quality. *Statistique et société* 13 | 3 [doi](https://doi.org/10.4000/15rj4) --- [HAL](https://hal.science/hal-05529371)
+
+78\. Manfrini E, Courchamp F, **Leroy B**, Berggren Å. 2026. Preventing the next invasion: Lessons from aquaculture for the safe expansion of insect farming. *Journal of Applied Ecology* 63 [doi](https://doi.org/10.1111/1365-2664.70311) --- [HAL](https://hal.science/hal-05555164v1)
+
+77\. Carneiro L, Pincheira-Donoso D, **Leroy B**, Bertolino S, Camacho-Cervantes M, Cuthbert RN, Bang A, Catford JA, South J, Cooke SJ, Angulo E, Courchamp F. 2026. Expanding invasive species impact assessments to the ecosystem level with EEICAT. *PLOS Biology* 24:e3003665 [doi](https://doi.org/10.1371/journal.pbio.3003665) --- [HAL](https://hal.science/hal-05555162v1)
+
 `2025`
 
-74\. Rintz CL, Koubbi P, Ramiro-Sánchez B, Azarian C, Caccavo J, Cotté C, Godet C, Hulley P, Le Goff R, Leprieur F, Robuchon M, Serandour B, **Leroy B**. In Press. Biogeographical regions and climate change: lanternfishes shed light on the role of climatic barriers in the Southern Ocean. *Global Change Biology*
+76\. Pili A, **Leroy B**, Zurell D. 2025. Correcting environmental sampling bias improves transferability of species distribution models. *Ecography* 2025 [doi](https://doi.org/10.1002/ecog.08002) --- [HAL](https://hal.science/hal-05555161v1)
+
+75\. Arbieu U, Bellard C, Bradshaw CJ, Correia RA, Courtois P, Di Minin E, Jarić I, **Leroy B**, Murfree JR, Orr M, Roturier S, Sartore‐Baldwin M, Veríssimo D, Courchamp F. 2025. Professional sport organizations as potential champions of biodiversity conservation. *Frontiers in Ecology and the Environment* 23 [doi](https://doi.org/10.1002/fee.2862) --- [HAL](https://hal.science/hal-05136242)
+
+74\. Rintz CL, Koubbi P, Ramiro‐Sánchez B, Azarian C, Caccavo JA, Cotté C, Goberville E, Godet C, Hulley PA, Le Goff R, Leprieur F, Robuchon M, Serandour B, **Leroy B**. 2025. Biogeographical Regions and Climate Change: Lanternfishes Shed Light on the Role of Climatic Barriers in the Southern Ocean. *Global Change Biology* 31: [doi](https://doi.org/10.1111/gcb.70256) --- [HAL](https://hal.science/hal-05124982)
 
 73\. Carneiro L, **Leroy B**, Capinha C, Bradshaw CJ, Bertolino S, Catford JA, Camacho-Cervantes M, Bojko J, Klippel G, Kumschick S, Pincheira-Donoso D, Tonkin JD, Fath BD, South J, Manfrini E, Dallas T, Courchamp F. 2025. Typology of the ecological impacts of biological invasions. *Trends in Ecology &amp; Evolution* : [doi](https://doi.org/10.1016/j.tree.2025.03.010) --- [HAL](https://hal.science/hal-04851347)
 
-72\. Soto I, Courtois P, Pili A, Tordoni E, Manfrini E, Angulo E, Bellard C, Briski E, Buřič M, Cuthbert RN, Kouba A, Kourantidou M, Macêdo RL, **Leroy B**, Haubrock PJ, Courchamp F, Leung B. In Press. Using species ranges and macroeconomic data to fill the gap in costs of biological invasions. *Nature Communications* [doi] --- [HAL]
+72\. Soto I, Courtois P, Pili A, Tordoni E, Manfrini E, Angulo E, Bellard C, Briski E, Buřič M, Cuthbert RN, Kouba A, Kourantidou M, Macêdo RL, **Leroy B**, Haubrock PJ, Courchamp F, Leung B. 2025. Using species ranges and macroeconomic data to fill the gap in costs of biological invasions. *Nature Ecology &amp; Evolution* 9:1021-1030 [doi](https://doi.org/10.1038/s41559-025-02697-5) --- [HAL](https://hal.science/hal-05086060)
 
 71\. Sérandour B, **Leroy B**, Blenckner T, Mittermayer F, Clemmesen C, Cruz J, Nowaczyk A, Winder M. (2025). Assessing the invasion risk of the cnidaria Blackfordia virginica Mayer, 1910: a threat to the Baltic Sea ecosystem?. *Biological Invasions* 27: [doi](https://doi.org/10.1007/s10530-025-03565-w) --- [HAL](https://hal.science/hal-05002621)
 
@@ -101,7 +137,7 @@ layout: cv
 
 39\. Haubrock PJ, Turbelin AJ, Cuthbert RN, Novoa A, Taylor NG, Angulo E, Ballesteros-Mejia L, Bodey TW, Capinha C, Diagne C, Essl F, Golivets M, Kirichenko N, Kourantidou M, **Leroy B**, Renault D, Verbrugge L, Courchamp F. 2021. Economic costs of invasive alien species across Europe In: Zenni RD, McDermott S, García-Berthou E, Essl F (Eds) The Economic costs of biological invasions in the world. *NeoBiota* 67: 153–190. [10.3897/neobiota.67.58196](https://doi.org/10.3897/neobiota.67.58196) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03329736)
 
-38\. Nogues Q, Raoux A, Araignous E, Chaalali A, Hattab T, **Leroy B**, Ben Rais Lasram F, David V, Le Loc’h F, Dauvin JC, Niquil N. 2021. Cumulative Effects of Marine Renewable Energy and Climate Change on Ecosystem Properties: Sensitivity of Ecological Network Analysis. *Ecological Indicators* IN PRESS [10.1016/j.ecolind.2020.107128](https://doi.org/10.1016/j.ecolind.2020.107128) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03070300)
+38\. Nogues Q, Raoux A, Araignous E, Chaalali A, Hattab T, **Leroy B**, Ben Rais Lasram F, David V, Le Loc’h F, Dauvin JC, Niquil N. 2021. Cumulative Effects of Marine Renewable Energy and Climate Change on Ecosystem Properties: Sensitivity of Ecological Network Analysis. *Ecological Indicators* [10.1016/j.ecolind.2020.107128](https://doi.org/10.1016/j.ecolind.2020.107128) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03070300)
 
 37\. Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA, Courchamp F. 2021. High and rising economic costs of biological invasions worldwide *Nature* 592, pages 571–576 [10.1038/s41586-021-03405-6](https://doi.org/10.1038/s41586-021-03405-6) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03410347)
 
