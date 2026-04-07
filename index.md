@@ -84,7 +84,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-82 published peer-reviewed articles. h-index: 44; i10-index: 69.
+83 published peer-reviewed articles. h-index: 44; i10-index: 69.
 
 Number of papers as 1st author: 13, 2nd author: 17, last author: 16.
 
@@ -129,7 +129,7 @@ rarity assessments of invertebrate taxa. Diversity and Distributions
 ### Software
 
 Lenormand M, **Leroy B**, Denelle P. 2023-2026. bioregion: Comparison of
-Bioregionalisation Methods. Current version: 1.3.0
+Bioregionalisation Methods. Current version: 1.4.0
 <https://cran.r-project.org/package=bioregion> Open-source code
 repository available here: <https://github.com/bioRgeo/bioregion>
 
@@ -379,7 +379,8 @@ Protected Areas.
 
 ### Master students
 
-`2026` **Lucien Desplanches**,  *Master 2, Ecole Normale Supérieure*, Paris, France.<br /> 
+`2026` **Lucien Desplanches**, *Master 2, Ecole Normale Supérieure*,
+Paris, France.<br />
 
 `2024` **Quentin Lamboley**, *Master 2, University of Rennes 1*, Rennes,
 France.<br /> Co-supervised with Eléna Manfrini
@@ -447,7 +448,9 @@ Orsay, France
 
 ### PhD examinations
 
-`2025` **Morgane Amelot**, Variabilité passée, présente et future des communautés marines face au changement climatique : le cas de la Mer Celtique, *Muséum National d'Histoire Naturelle*
+`2025` **Morgane Amelot**, Variabilité passée, présente et future des
+communautés marines face au changement climatique : le cas de la Mer
+Celtique, *Muséum National d’Histoire Naturelle*
 
 `2024` **Emma Chollet Ramampiandra**, From black boxes to ecological
 insights: Exploring the use of machine learning in species distribution
@@ -576,4 +579,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Mar 2026<br/><br/>
+<br/>Last updated: Apr 2026<br/><br/>

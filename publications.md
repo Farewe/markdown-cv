@@ -11,7 +11,7 @@ layout: cv
 
 <!-- formatter les refs avec 
 source("scripts/format_ref.R")
-format_reference_from_doi("10.1002/fee.2862") 
+format_reference_from_doi("https://doi.org/10.1093/biosci/biaf195") 
 -->
 
 <!-- vérifier les papiers manquants dans la liste:
@@ -42,6 +42,8 @@ xx\. Manfrini E, Sauvion N, Maquart P, Legal L, Blight O, Duquesne E, Hanot C, B
 
 
 `2026`
+
+80\. Courchamp F, Klippel G, Angulo E, Arbieu U, Bang A, Bojko J, Caetano GHdO, Camacho-Cervantes M, Carneiro L, Cuthbert RN, Dawson MN, Desiderato A, Fath BD, Firth JA, Latombe G, **Leroy B**, Liu C, Manfrini E, Pan X, Pincheira-Donoso D, Tonkin JD, Vimercati G, Wang S, Bradshaw CJA. 2026. Quantifying the Magnitude of Biological Invasions Using Total Biomass. *BioScience* [doi](https://doi.org/10.1093/biosci/biaf195) --- [HAL]()
 
 79\. Rintz CL, Charvolin F, Hubert A, Feunteun É, **Leroy B**. 2025. Opening the black box of an ongoing quantification: building participatory indicators of foreshore quality. *Statistique et société* 13 | 3 [doi](https://doi.org/10.4000/15rj4) --- [HAL](https://hal.science/hal-05529371)
 

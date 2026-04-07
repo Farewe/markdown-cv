@@ -37,7 +37,7 @@ gs <- get_profile(id)
 ## Education & experience
 
 `2014-present`
-**Maître de conférences (lecturer)**, *Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris
+**Maître de conférences (assistant professor)**, *Lab. Biology of Aquatic Organisms & Ecosystems, Muséum national d'Histoire Naturelle*, Paris
 
 `2014`
 **Post-doctoral fellow**, *UMR 8079 Ecology Systematics & Evolution, University of Paris South XI*, Orsay

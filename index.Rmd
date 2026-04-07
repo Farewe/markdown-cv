@@ -329,6 +329,8 @@ Bioregionalisation of the Saint-Paul Amsterdam EEZ in the Indian Ocean for the d
 
 ### Master students
 
+`2026` **Lucien Desplanches**,  *Master 2, Ecole Normale Supérieure*, Paris, France.<br />
+
 `2024`
 **Quentin Lamboley**, *Master 2, University of Rennes 1*, Rennes, France.<br />
 Co-supervised with Eléna Manfrini
@@ -403,6 +405,8 @@ Co-supervised with Céline Bellard
 
 
 ### PhD examinations
+
+`2025` **Morgane Amelot**, Variabilité passée, présente et future des communautés marines face au changement climatique : le cas de la Mer Celtique, *Muséum National d'Histoire Naturelle*
 
 `2024` **Emma Chollet Ramampiandra**, From black boxes to ecological insights: Exploring the
 use of machine learning in species distribution modelling, *ETH Zurich, Zurich, Switzerland*
